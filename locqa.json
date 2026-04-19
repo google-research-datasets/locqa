@@ -1,0 +1,5018 @@
+{
+    "What is the first workday of the week?": {
+        "category": "Holiday and Calendar",
+        "languages": {
+            "English": {
+                "translated_question": "What is the first workday of the week?",
+                "answers": {
+                    "USA": "Monday",
+                    "UK": "Monday",
+                    "Canada": "Monday",
+                    "Australia": "Monday",
+                    "South Africa": "Monday",
+                    "Ireland": "Monday",
+                    "New Zealand": "Monday"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el primer día laborable de la semana?",
+                "answers": {
+                    "Mexico": "Lunes",
+                    "USA": "Lunes",
+                    "Colombia": "Lunes",
+                    "Spain": "Lunes",
+                    "Argentina": "Lunes",
+                    "Peru": "Lunes",
+                    "Venezuela": "Lunes",
+                    "Chile": "Lunes",
+                    "Guatemala": "Lunes",
+                    "Ecuador": "Lunes",
+                    "Bolivia": "Lunes",
+                    "Cuba": "Lunes",
+                    "the Dominican Republic": "Lunes",
+                    "Honduras": "Lunes",
+                    "Paraguay": "Lunes",
+                    "Nicaragua": "Lunes",
+                    "El Salvador": "Lunes",
+                    "Costa Rica": "Lunes",
+                    "Panama": "Lunes",
+                    "Uruguay": "Lunes"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est le premier jour ouvrable de la semaine ?",
+                "answers": {
+                    "France": "Lundi",
+                    "Congo (DR)": "Lundi",
+                    "Canada": "Lundi",
+                    "Haiti": "Lundi",
+                    "Belgium": "Lundi",
+                    "Switzerland": "Lundi",
+                    "Mali": "Lundi"
+                }
+            },
+            "German": {
+                "translated_question": "Welcher Tag ist der erste Arbeitstag der Woche?",
+                "answers": {
+                    "Germany": "Montag",
+                    "Austria": "Montag",
+                    "Switzerland": "Montag"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו יום העבודה הראשון בשבוע?",
+                "answers": {
+                    "Israel": "ראשון"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सप्ताह का पहला कार्यदिवस कौन सा है?",
+                "answers": {
+                    "India": "सोमवार"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa hari kerja pertama dalam seminggu?",
+                "answers": {
+                    "Indonesia": "senin",
+                    "Malaysia": "isnin"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il primo giorno lavorativo della settimana?",
+                "answers": {
+                    "Italy": "Lunedi"
+                }
+            },
+            "Japanese": {
+                "translated_question": "今週の最初の平日は何日ですか?",
+                "answers": {
+                    "Japan": "月曜日"
+                }
+            },
+            "Korean": {
+                "translated_question": "일주일 중 첫 번째 근무일은 언제인가요?",
+                "answers": {
+                    "South Korea": "월요일",
+                    "North Korea": "월요일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o primeiro dia útil da semana?",
+                "answers": {
+                    "Portugal": "Segunda-feira",
+                    "Brazil": "Segunda-feira"
+                }
+            },
+            "Chinese": {
+                "translated_question": "一周的第一个工作日是哪天？",
+                "answers": {
+                    "China\n(Chinese)": "星期一",
+                    "Singapore\n(Chinese)": "星期一"
+                }
+            }
+        }
+    },
+    "What are the days of the weekend?": {
+        "category": "Holiday and Calendar",
+        "languages": {
+            "English": {
+                "translated_question": "What are the days of the weekend?",
+                "answers": {
+                    "USA": "Saturday, Sunday",
+                    "UK": "Saturday, Sunday",
+                    "Canada": "Saturday, Sunday",
+                    "Australia": "Saturday, Sunday",
+                    "South Africa": "Saturday, Sunday",
+                    "Ireland": "Saturday, Sunday",
+                    "New Zealand": "Saturday, Sunday"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuales son los días del fin de semana?",
+                "answers": {
+                    "Mexico": "Sabado, Domingo",
+                    "USA": "Sabado, Domingo",
+                    "Colombia": "Sabado, Domingo",
+                    "Spain": "Sabado, Domingo",
+                    "Argentina": "Sabado, Domingo",
+                    "Peru": "Sabado, Domingo",
+                    "Venezuela": "Sabado, Domingo",
+                    "Chile": "Sabado, Domingo",
+                    "Guatemala": "Sabado, Domingo",
+                    "Ecuador": "Sabado, Domingo",
+                    "Bolivia": "Sabado, Domingo",
+                    "Cuba": "Sabado, Domingo",
+                    "the Dominican Republic": "Sabado, Domingo",
+                    "Honduras": "Sabado, Domingo",
+                    "Paraguay": "Sabado, Domingo",
+                    "Nicaragua": "Sabado, Domingo",
+                    "El Salvador": "Sabado, Domingo",
+                    "Costa Rica": "Sabado, Domingo",
+                    "Panama": "Sabado, Domingo",
+                    "Uruguay": "Sabado, Domingo"
+                }
+            },
+            "French": {
+                "translated_question": "Quels sont les jours du week-end ?",
+                "answers": {
+                    "France": "Samedi, Dimanche",
+                    "Congo (DR)": "Samedi, Dimanche",
+                    "Canada": "Samedi, Dimanche",
+                    "Haiti": "Samedi, Dimanche",
+                    "Belgium": "Samedi, Dimanche",
+                    "Switzerland": "Samedi, Dimanche",
+                    "Mali": "Samedi, Dimanche"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Tage fallen auf das Wochenende?",
+                "answers": {
+                    "Germany": "Samstag, Sonntag",
+                    "Austria": "Samstag, Sonntag",
+                    "Switzerland": "Samstag, Sonntag"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהם ימי סוף השבוע?",
+                "answers": {
+                    "Israel": "שישי, שבת"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सप्ताहांत के दिन कौन से हैं?",
+                "answers": {
+                    "India": "शनिवार, रविवार"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Hari apa saja yang termasuk akhir pekan?",
+                "answers": {
+                    "Indonesia": "sabtu, minggu",
+                    "Malaysia": "sabtu, ahad atau jumat, sabtu"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quali sono i giorni del fine settimana?",
+                "answers": {
+                    "Italy": "Sabato, Domenica"
+                }
+            },
+            "Japanese": {
+                "translated_question": "週末は何曜日ですか？",
+                "answers": {
+                    "Japan": "土曜日、日曜日"
+                }
+            },
+            "Korean": {
+                "translated_question": "주말은 언제인가요?",
+                "answers": {
+                    "South Korea": "토요일,일요일",
+                    "North Korea": "토요일,일요일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quais são os dias do fim de semana?",
+                "answers": {
+                    "Portugal": "Sábado e domingo",
+                    "Brazil": "Sábado e domingo"
+                }
+            },
+            "Chinese": {
+                "translated_question": "周末是哪几天？",
+                "answers": {
+                    "China\n(Chinese)": "星期六和星期天",
+                    "Singapore\n(Chinese)": "星期六和星期天"
+                }
+            }
+        }
+    },
+    "What is the first letter of the alphabet?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "What is the first letter of the alphabet?",
+                "answers": {
+                    "USA": "A",
+                    "UK": "A",
+                    "Canada": "A",
+                    "Australia": "A",
+                    "South Africa": "A",
+                    "Ireland": "A",
+                    "New Zealand": "A"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la primera letra del alfabeto?",
+                "answers": {
+                    "Mexico": "A",
+                    "USA": "A",
+                    "Colombia": "A",
+                    "Spain": "A",
+                    "Argentina": "A",
+                    "Peru": "A",
+                    "Venezuela": "A",
+                    "Chile": "A",
+                    "Guatemala": "A",
+                    "Ecuador": "A",
+                    "Bolivia": "A",
+                    "Cuba": "A",
+                    "the Dominican Republic": "A",
+                    "Honduras": "A",
+                    "Paraguay": "A",
+                    "Nicaragua": "A",
+                    "El Salvador": "A",
+                    "Costa Rica": "A",
+                    "Panama": "A",
+                    "Uruguay": "A"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la première lettre de l'alphabet ?",
+                "answers": {
+                    "France": "A",
+                    "Congo (DR)": "A",
+                    "Canada": "A",
+                    "Haiti": "A",
+                    "Belgium": "A",
+                    "Switzerland": "A",
+                    "Mali": "A"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist der erste Buchstabe des Alphabets?",
+                "answers": {
+                    "Germany": "A",
+                    "Austria": "A",
+                    "Switzerland": "A"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי האות הראשונה באלף-בית?",
+                "answers": {
+                    "Israel": "א"
+                }
+            },
+            "Hindi": {
+                "translated_question": "वर्णमाला का पहला अक्षर क्या है?",
+                "answers": {
+                    "India": "अ"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa huruf pertama alfabet?",
+                "answers": {
+                    "Indonesia": "a",
+                    "Malaysia": "a"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è la prima lettera dell'alfabeto?",
+                "answers": {
+                    "Italy": "A"
+                }
+            },
+            "Japanese": {
+                "translated_question": "アルファベットの最初の文字は何ですか？",
+                "answers": {
+                    "Japan": "A"
+                }
+            },
+            "Korean": {
+                "translated_question": "알파벳의 첫 글자는 무엇입니까?",
+                "answers": {
+                    "South Korea": "ㄱ",
+                    "North Korea": "ㄱ"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a primeira letra do alfabeto?",
+                "answers": {
+                    "Portugal": "A",
+                    "Brazil": "A"
+                }
+            },
+            "Chinese": {
+                "translated_question": "字母表的第一个字母是什么？",
+                "answers": {
+                    "China\n(Chinese)": "N/A",
+                    "Singapore\n(Chinese)": "N/A"
+                }
+            }
+        }
+    },
+    "How many inflected forms do most verbs have?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "How many inflected forms do most verbs have?",
+                "answers": {
+                    "USA": "5",
+                    "UK": "5",
+                    "Canada": "5",
+                    "Australia": "5",
+                    "South Africa": "5",
+                    "Ireland": "5",
+                    "New Zealand": "5"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuántas formas flexionadas tienen la mayoría de los verbos?",
+                "answers": {
+                    "Mexico": "60",
+                    "USA": "60",
+                    "Colombia": "60",
+                    "Spain": "60",
+                    "Argentina": "60",
+                    "Peru": "60",
+                    "Venezuela": "60",
+                    "Chile": "60",
+                    "Guatemala": "60",
+                    "Ecuador": "60",
+                    "Bolivia": "60",
+                    "Cuba": "60",
+                    "the Dominican Republic": "60",
+                    "Honduras": "60",
+                    "Paraguay": "60",
+                    "Nicaragua": "60",
+                    "El Salvador": "60",
+                    "Costa Rica": "60",
+                    "Panama": "60",
+                    "Uruguay": "60"
+                }
+            },
+            "French": {
+                "translated_question": "Combien de formes fléchies la plupart des verbes possèdent-ils ?",
+                "answers": {
+                    "France": "51",
+                    "Congo (DR)": "51",
+                    "Canada": "51",
+                    "Haiti": "51",
+                    "Belgium": "51",
+                    "Switzerland": "51",
+                    "Mali": "51"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele flektierte Formen haben die meisten Verben?",
+                "answers": {
+                    "Germany": "29",
+                    "Austria": "29",
+                    "Switzerland": "29"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה צורות מוטות יש לרוב הפעלים?",
+                "answers": {
+                    "Israel": "28"
+                }
+            },
+            "Hindi": {
+                "translated_question": "अधिकांश क्रियाओं के कितने विभक्ति रूप होते हैं?",
+                "answers": {
+                    "India": "7"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa banyak bentuk infleksi yang dimiliki sebagian besar kata kerja?",
+                "answers": {
+                    "Indonesia": "2 - 4",
+                    "Malaysia": "3 - 5"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quante forme flesse hanno la maggior parte dei verbi?",
+                "answers": {
+                    "Italy": "58"
+                }
+            },
+            "Japanese": {
+                "translated_question": "ほとんどの動詞にはいくつの語形変化がありますか?",
+                "answers": {
+                    "Japan": "６つ"
+                }
+            },
+            "Korean": {
+                "translated_question": "대부분의 동사는 몇 가지의 변화형을 가지고 있나요?",
+                "answers": {
+                    "South Korea": "N/A",
+                    "North Korea": "N/A"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantas formas flexionadas a maioria dos verbos têm?",
+                "answers": {
+                    "Portugal": "cerca de 70 formas",
+                    "Brazil": "cerca de 70 formas"
+                }
+            },
+            "Chinese": {
+                "translated_question": "大多数动词有多少种屈折形式？",
+                "answers": {
+                    "China\n(Chinese)": "N/A",
+                    "Singapore\n(Chinese)": "N/A"
+                }
+            }
+        }
+    },
+    "What is the standard word order in a declarative sentence?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "What is the standard word order in a declarative sentence?",
+                "answers": {
+                    "USA": "Subject-Verb-Object",
+                    "UK": "Subject-Verb-Object",
+                    "Canada": "Subject-Verb-Object",
+                    "Australia": "Subject-Verb-Object",
+                    "South Africa": "Subject-Verb-Object",
+                    "Ireland": "Subject-Verb-Object",
+                    "New Zealand": "Subject-Verb-Object"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el orden de palabras estándar en una oración declarativa?",
+                "answers": {
+                    "Mexico": "Sujeto-Verbo-Objeto",
+                    "USA": "Sujeto-Verbo-Objeto",
+                    "Colombia": "Sujeto-Verbo-Objeto",
+                    "Spain": "Sujeto-Verbo-Objeto",
+                    "Argentina": "Sujeto-Verbo-Objeto",
+                    "Peru": "Sujeto-Verbo-Objeto",
+                    "Venezuela": "Sujeto-Verbo-Objeto",
+                    "Chile": "Sujeto-Verbo-Objeto",
+                    "Guatemala": "Sujeto-Verbo-Objeto",
+                    "Ecuador": "Sujeto-Verbo-Objeto",
+                    "Bolivia": "Sujeto-Verbo-Objeto",
+                    "Cuba": "Sujeto-Verbo-Objeto",
+                    "the Dominican Republic": "Sujeto-Verbo-Objeto",
+                    "Honduras": "Sujeto-Verbo-Objeto",
+                    "Paraguay": "Sujeto-Verbo-Objeto",
+                    "Nicaragua": "Sujeto-Verbo-Objeto",
+                    "El Salvador": "Sujeto-Verbo-Objeto",
+                    "Costa Rica": "Sujeto-Verbo-Objeto",
+                    "Panama": "Sujeto-Verbo-Objeto",
+                    "Uruguay": "Sujeto-Verbo-Objeto"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'ordre standard des mots dans une phrase déclarative ?",
+                "answers": {
+                    "France": "Sujet, verbe, complément",
+                    "Congo (DR)": "Sujet, verbe, complément",
+                    "Canada": "Sujet, verbe, complément",
+                    "Haiti": "Sujet, verbe, complément",
+                    "Belgium": "Sujet, verbe, complément",
+                    "Switzerland": "Sujet, verbe, complément",
+                    "Mali": "Sujet, verbe, complément"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Wortstellung ist in einem Aussagesatz üblich?",
+                "answers": {
+                    "Germany": "Subjekt, Prädikat, Objekt",
+                    "Austria": "Subjekt, Prädikat, Objekt",
+                    "Switzerland": "Subjekt, Prädikat, Objekt"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו סדר המילים הסטנדרטי במשפט הצהרתי?",
+                "answers": {
+                    "Israel": "נושא - נשוא - משלים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "घोषणात्मक वाक्य में मानक शब्द क्रम क्या है?",
+                "answers": {
+                    "India": "कर्ता-कर्म-क्रिया"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa urutan kata standar dalam kalimat deklaratif?",
+                "answers": {
+                    "Indonesia": "subjek - predikat - objek",
+                    "Malaysia": "subjek - predikat - objek"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è l'ordine standard delle parole in una frase dichiarativa?",
+                "answers": {
+                    "Italy": "soggetto + verbo + complemento"
+                }
+            },
+            "Japanese": {
+                "translated_question": "平叙文における標準的な語順は何ですか?",
+                "answers": {
+                    "Japan": "主語＋目的語＋動詞"
+                }
+            },
+            "Korean": {
+                "translated_question": "서술문의 표준 어순은 무엇입니까?",
+                "answers": {
+                    "South Korea": "주어-목적어-서술어",
+                    "North Korea": "주어-목적어-서술어"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a ordem padrão das palavras em uma frase declarativa?",
+                "answers": {
+                    "Portugal": "Sujeito Verbo Complemento",
+                    "Brazil": "Sujeito Verbo Complemento"
+                }
+            },
+            "Chinese": {
+                "translated_question": "陈述句中的标准语序是什么？",
+                "answers": {
+                    "China\n(Chinese)": "主谓宾",
+                    "Singapore\n(Chinese)": "主谓宾"
+                }
+            }
+        }
+    },
+    "What is the longest word in the dictionary?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "What is the longest word in the dictionary?",
+                "answers": {
+                    "USA": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "UK": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "Canada": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "Australia": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "South Africa": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "Ireland": "pneumonoultramicroscopicsilicovolcanoconiosis",
+                    "New Zealand": "pneumonoultramicroscopicsilicovolcanoconiosis"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la palabra más larga del diccionario?",
+                "answers": {
+                    "Mexico": "Electroencefalografista",
+                    "USA": "Electroencefalografista",
+                    "Colombia": "Electroencefalografista",
+                    "Spain": "Electroencefalografista",
+                    "Argentina": "Electroencefalografista",
+                    "Peru": "Electroencefalografista",
+                    "Venezuela": "Electroencefalografista",
+                    "Chile": "Electroencefalografista",
+                    "Guatemala": "Electroencefalografista",
+                    "Ecuador": "Electroencefalografista",
+                    "Bolivia": "Electroencefalografista",
+                    "Cuba": "Electroencefalografista",
+                    "the Dominican Republic": "Electroencefalografista",
+                    "Honduras": "Electroencefalografista",
+                    "Paraguay": "Electroencefalografista",
+                    "Nicaragua": "Electroencefalografista",
+                    "El Salvador": "Electroencefalografista",
+                    "Costa Rica": "Electroencefalografista",
+                    "Panama": "Electroencefalografista",
+                    "Uruguay": "Electroencefalografista"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est le mot le plus long du dictionnaire ?",
+                "answers": {
+                    "France": "anticonstitutionnellement",
+                    "Congo (DR)": "anticonstitutionnellement",
+                    "Canada": "anticonstitutionnellement",
+                    "Haiti": "anticonstitutionnellement",
+                    "Belgium": "anticonstitutionnellement",
+                    "Switzerland": "anticonstitutionnellement",
+                    "Mali": "anticonstitutionnellement"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist das längste Wort im Wörterbuch?",
+                "answers": {
+                    "Germany": "Aufmerksamkeitsdefizit-Hyperaktivitätsstörung",
+                    "Austria": "Aufmerksamkeitsdefizit-Hyperaktivitätsstörung",
+                    "Switzerland": "Aufmerksamkeitsdefizit-Hyperaktivitätsstörung"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי המילה הארוכה ביותר במילון?",
+                "answers": {
+                    "Israel": "אינטרדיסציפלינריות"
+                }
+            },
+            "Hindi": {
+                "translated_question": "शब्दकोष में सबसे लंबा शब्द कौन सा है?",
+                "answers": {
+                    "India": "न्यूमोनोअल्ट्रामाइक्रोस्कोपिकसिलिकोवोल्केनोकोनियोसिस"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa kata terpanjang dalam kamus?",
+                "answers": {
+                    "Indonesia": "mentransmigrasilokalkan",
+                    "Malaysia": "menyepodaknyahcasdiversifikasielektrostatikkan"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è la parola più lunga nel dizionario?",
+                "answers": {
+                    "Italy": "precipitevolissimevolmente"
+                }
+            },
+            "Japanese": {
+                "translated_question": "辞書の中で最も長い単語は何ですか？",
+                "answers": {
+                    "Japan": "リュウグウノオトヒメノモトユイノキリハズシ"
+                }
+            },
+            "Korean": {
+                "translated_question": "사전에서 가장 긴 단어는 무엇입니까?",
+                "answers": {
+                    "South Korea": "니코틴아마이드 아데닌 다이뉴클레오타이드",
+                    "North Korea": "니코틴아마이드 아데닌 다이뉴클레오타이드"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a palavra mais longa do dicionário?",
+                "answers": {
+                    "Portugal": "pneumoultramicroscopicossilicovulcanoconiótico",
+                    "Brazil": "pneumoultramicroscopicossilicovulcanoconiótico"
+                }
+            },
+            "Chinese": {
+                "translated_question": "字典中最长的单词是什么？",
+                "answers": {
+                    "China\n(Chinese)": "N/A",
+                    "Singapore\n(Chinese)": "N/A"
+                }
+            }
+        }
+    },
+    "How many characters are there in the shortest word?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "How many characters are there in the shortest word?",
+                "answers": {
+                    "USA": "1",
+                    "UK": "1",
+                    "Canada": "1",
+                    "Australia": "1",
+                    "South Africa": "1",
+                    "Ireland": "1",
+                    "New Zealand": "1"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuántos caracteres hay en la palabra más corta?",
+                "answers": {
+                    "Mexico": "1",
+                    "USA": "1",
+                    "Colombia": "1",
+                    "Spain": "1",
+                    "Argentina": "1",
+                    "Peru": "1",
+                    "Venezuela": "1",
+                    "Chile": "1",
+                    "Guatemala": "1",
+                    "Ecuador": "1",
+                    "Bolivia": "1",
+                    "Cuba": "1",
+                    "the Dominican Republic": "1",
+                    "Honduras": "1",
+                    "Paraguay": "1",
+                    "Nicaragua": "1",
+                    "El Salvador": "1",
+                    "Costa Rica": "1",
+                    "Panama": "1",
+                    "Uruguay": "1"
+                }
+            },
+            "French": {
+                "translated_question": "Combien de caractères comporte le mot le plus court ?",
+                "answers": {
+                    "France": "1",
+                    "Congo (DR)": "1",
+                    "Canada": "1",
+                    "Haiti": "1",
+                    "Belgium": "1",
+                    "Switzerland": "1",
+                    "Mali": "1"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele Buchstaben hat das kürzeste Wort?",
+                "answers": {
+                    "Germany": "2",
+                    "Austria": "2",
+                    "Switzerland": "2"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה אותיות יש במילה הקצרה ביותר?",
+                "answers": {
+                    "Israel": "2"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सबसे छोटे शब्द में कितने अक्षर हैं?",
+                "answers": {
+                    "India": "एक"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa banyak karakter yang ada dalam kata terpendek?",
+                "answers": {
+                    "Indonesia": "2",
+                    "Malaysia": "2"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quanti caratteri ci sono nella parola più corta?",
+                "answers": {
+                    "Italy": "1"
+                }
+            },
+            "Japanese": {
+                "translated_question": "最も短い単語には何文字ありますか?",
+                "answers": {
+                    "Japan": "一文字"
+                }
+            },
+            "Korean": {
+                "translated_question": "가장 짧은 단어는 몇 글자로 구성되어 있나요?",
+                "answers": {
+                    "South Korea": "1",
+                    "North Korea": "1"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantos caracteres tem a palavra mais curta?",
+                "answers": {
+                    "Portugal": "1",
+                    "Brazil": "1"
+                }
+            },
+            "Chinese": {
+                "translated_question": "最短的单词有多少个字符？",
+                "answers": {
+                    "China\n(Chinese)": "一个",
+                    "Singapore\n(Chinese)": "一个"
+                }
+            }
+        }
+    },
+    "How many seats are there in the parliament?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "How many seats are there in the parliament?",
+                "answers": {
+                    "USA": "535 seats",
+                    "UK": "650 seats",
+                    "Canada": "448 seats",
+                    "Australia": "226 seats",
+                    "South Africa": "490 seats",
+                    "Ireland": "234 seats",
+                    "New Zealand": "minimum 120 seats"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuántos escaños hay en el parlamento?",
+                "answers": {
+                    "Mexico": "628 escaños",
+                    "USA": "535 escaños",
+                    "Colombia": "296 escaños",
+                    "Spain": "615 escaños",
+                    "Argentina": "329 escaños",
+                    "Peru": "130 escaños",
+                    "Venezuela": "277 escaños",
+                    "Chile": "205 parlamentarios",
+                    "Guatemala": "160 diputados",
+                    "Ecuador": "151 escaños",
+                    "Bolivia": "175 escaños",
+                    "Cuba": "470 diputados",
+                    "the Dominican Republic": "190 miembros",
+                    "Honduras": "128 diputados",
+                    "Paraguay": "125 escaños",
+                    "Nicaragua": "92 escaños",
+                    "El Salvador": "60 escaños",
+                    "Costa Rica": "57 escaños",
+                    "Panama": "71 diputados",
+                    "Uruguay": "129 escaños"
+                }
+            },
+            "French": {
+                "translated_question": "Combien de sièges compte le parlement ?",
+                "answers": {
+                    "France": "577",
+                    "Congo (DR)": "500",
+                    "Canada": "345",
+                    "Haiti": "149",
+                    "Belgium": "150",
+                    "Switzerland": "246",
+                    "Mali": "147"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele Sitze hat das Parlament?",
+                "answers": {
+                    "Germany": "598 Sitze",
+                    "Austria": "630 Sitze",
+                    "Switzerland": "246 Sitze"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה מושבים יש בפרלמנט?",
+                "answers": {
+                    "Israel": "120"
+                }
+            },
+            "Hindi": {
+                "translated_question": "संसद में कितनी सीटें हैं?",
+                "answers": {
+                    "India": "543"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa jumlah kursi di parlemen?",
+                "answers": {
+                    "Indonesia": "732",
+                    "Malaysia": "292"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quanti seggi ci sono nel parlamento?",
+                "answers": {
+                    "Italy": "600 seggi"
+                }
+            },
+            "Japanese": {
+                "translated_question": "議会にはいくつの議席がありますか？",
+                "answers": {
+                    "Japan": "713"
+                }
+            },
+            "Korean": {
+                "translated_question": "의회에는 몇 개의 의석이 있나요?",
+                "answers": {
+                    "South Korea": "300석",
+                    "North Korea": "687석"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantas cadeiras tem o parlamento?",
+                "answers": {
+                    "Portugal": "230 cadeiras",
+                    "Brazil": "594 cadeiras"
+                }
+            },
+            "Chinese": {
+                "translated_question": "议会有多少个席位？",
+                "answers": {
+                    "China\n(Chinese)": "2977个，最多可达3000个",
+                    "Singapore\n(Chinese)": "97个"
+                }
+            }
+        }
+    },
+    "How many working hours are there in a week?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "How many working hours are there in a week?",
+                "answers": {
+                    "USA": "40",
+                    "UK": "40",
+                    "Canada": "40",
+                    "Australia": "38",
+                    "South Africa": "45",
+                    "Ireland": "39",
+                    "New Zealand": "35-40"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuántas horas de trabajo hay en una semana?",
+                "answers": {
+                    "Mexico": "48",
+                    "USA": "40",
+                    "Colombia": "44",
+                    "Spain": "40",
+                    "Argentina": "48",
+                    "Peru": "48",
+                    "Venezuela": "44",
+                    "Chile": "44",
+                    "Guatemala": "48",
+                    "Ecuador": "40",
+                    "Bolivia": "48",
+                    "Cuba": "44",
+                    "the Dominican Republic": "44",
+                    "Honduras": "44",
+                    "Paraguay": "48",
+                    "Nicaragua": "48",
+                    "El Salvador": "44",
+                    "Costa Rica": "48",
+                    "Panama": "40",
+                    "Uruguay": "48"
+                }
+            },
+            "French": {
+                "translated_question": "Combien d'heures de travail y a-t-il dans une semaine ?",
+                "answers": {
+                    "France": "35",
+                    "Congo (DR)": "45",
+                    "Canada": "40",
+                    "Haiti": "48",
+                    "Belgium": "38",
+                    "Switzerland": "45",
+                    "Mali": "40"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele Arbeitsstunden hat eine Woche?",
+                "answers": {
+                    "Germany": "40 Stunden",
+                    "Austria": "40 Stunden",
+                    "Switzerland": "45 oder 50 Stunden"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה שעות עבודה יש ​​בשבוע?",
+                "answers": {
+                    "Israel": "42 שעות"
+                }
+            },
+            "Hindi": {
+                "translated_question": "एक सप्ताह में कितने कार्य घंटे होते हैं?",
+                "answers": {
+                    "India": "48"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa jam kerja dalam seminggu?",
+                "answers": {
+                    "Indonesia": "40",
+                    "Malaysia": "45"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quante ore di lavoro ci sono in una settimana?",
+                "answers": {
+                    "Italy": "40 ore"
+                }
+            },
+            "Japanese": {
+                "translated_question": "1週間の労働時間は何時間ですか？",
+                "answers": {
+                    "Japan": "４０時間"
+                }
+            },
+            "Korean": {
+                "translated_question": "일주일에 몇 시간 일하나요?",
+                "answers": {
+                    "South Korea": "40시간",
+                    "North Korea": "48시간"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantas horas de trabalho há em uma semana?",
+                "answers": {
+                    "Portugal": "40 horas semanais",
+                    "Brazil": "40 horas semanais"
+                }
+            },
+            "Chinese": {
+                "translated_question": "一周的工作时长是多少小时？",
+                "answers": {
+                    "China\n(Chinese)": "40",
+                    "Singapore\n(Chinese)": "44"
+                }
+            }
+        }
+    },
+    "What are the national languages?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What are the national languages?",
+                "answers": {
+                    "USA": "English",
+                    "UK": "English",
+                    "Canada": "English and French",
+                    "Australia": "English",
+                    "South Africa": "Afrikaans, English, Ndebele, Northern Sotho, Sotho, South African Sign Language, Swazi, Tsonga, Tswana, Venda, Xhosa, Zulu",
+                    "Ireland": "Irish, English",
+                    "New Zealand": "English, Māori and New Zealand Sign Language."
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuales son los idiomas nacionales?",
+                "answers": {
+                    "Mexico": "Español",
+                    "USA": "Ingles",
+                    "Colombia": "Español",
+                    "Spain": "Español",
+                    "Argentina": "Español",
+                    "Peru": "Español",
+                    "Venezuela": "Español",
+                    "Chile": "Español",
+                    "Guatemala": "Español",
+                    "Ecuador": "Español",
+                    "Bolivia": "Español",
+                    "Cuba": "Español",
+                    "the Dominican Republic": "Español",
+                    "Honduras": "Español",
+                    "Paraguay": "el español y el guaraní",
+                    "Nicaragua": "Español",
+                    "El Salvador": "Español",
+                    "Costa Rica": "Español",
+                    "Panama": "Español",
+                    "Uruguay": "Español"
+                }
+            },
+            "French": {
+                "translated_question": "Quelles sont les langues nationales ?",
+                "answers": {
+                    "France": "Français",
+                    "Congo (DR)": "Lingala, Kikongo ya leta, Swahili, Tshiluba",
+                    "Canada": "Anglais, Français",
+                    "Haiti": "Créole Haïtien, Français",
+                    "Belgium": "Néerlandais, Français, L'allemand",
+                    "Switzerland": "L'allemand, Français, L'italien, Romanche",
+                    "Mali": "Français, Bambara, Bobo, Bozo, Dogon, Fula, Hassaniya, Kassonke, Maninke, Minyanka, Senufo, Songhay, Soninke, Tamasheq"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Landessprachen gibt es?",
+                "answers": {
+                    "Germany": "Deutsch",
+                    "Austria": "Deutsch",
+                    "Switzerland": "Deutsch, Französisch, Italienisch und Rätoromanisch"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהן השפות הלאומיות?",
+                "answers": {
+                    "Israel": "עברית"
+                }
+            },
+            "Hindi": {
+                "translated_question": "राष्ट्रीय भाषाएँ कौन सी हैं?",
+                "answers": {
+                    "India": "नहीं है"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa bahasa nasional?",
+                "answers": {
+                    "Indonesia": "Bahasa Indonesia",
+                    "Malaysia": "Bahasa Melayu"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quali sono le lingue nazionali?",
+                "answers": {
+                    "Italy": "italiano"
+                }
+            },
+            "Japanese": {
+                "translated_question": "国語は何ですか？",
+                "answers": {
+                    "Japan": "日本語"
+                }
+            },
+            "Korean": {
+                "translated_question": "국가별 언어는 무엇입니까?",
+                "answers": {
+                    "South Korea": "한국어",
+                    "North Korea": "문화어"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quais são as línguas nacionais?",
+                "answers": {
+                    "Portugal": "Português",
+                    "Brazil": "Português"
+                }
+            },
+            "Chinese": {
+                "translated_question": "国家的官方语言有哪些？",
+                "answers": {
+                    "China\n(Chinese)": "中文",
+                    "Singapore\n(Chinese)": "英语、华语、马来语、泰米尔语"
+                }
+            }
+        }
+    },
+    "What is the legal drinking age?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the legal drinking age?",
+                "answers": {
+                    "USA": "21",
+                    "UK": "18",
+                    "Canada": "18 to 19",
+                    "Australia": "18",
+                    "South Africa": "18",
+                    "Ireland": "18",
+                    "New Zealand": "18"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la edad legal para beber?",
+                "answers": {
+                    "Mexico": "18",
+                    "USA": "21",
+                    "Colombia": "18",
+                    "Spain": "18",
+                    "Argentina": "18",
+                    "Peru": "18",
+                    "Venezuela": "18",
+                    "Chile": "18",
+                    "Guatemala": "18",
+                    "Ecuador": "18",
+                    "Bolivia": "18",
+                    "Cuba": "16",
+                    "the Dominican Republic": "18",
+                    "Honduras": "18",
+                    "Paraguay": "20",
+                    "Nicaragua": "18",
+                    "El Salvador": "18",
+                    "Costa Rica": "18",
+                    "Panama": "18",
+                    "Uruguay": "18"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'âge légal pour consommer de l'alcool ?",
+                "answers": {
+                    "France": "18 ans",
+                    "Congo (DR)": "18 ans",
+                    "Canada": "18 ans, 19 ans",
+                    "Haiti": "16 ans",
+                    "Belgium": "16 ans, 18 ans",
+                    "Switzerland": "16 ans, 18 ans",
+                    "Mali": "18 ans"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist das gesetzliche Mindestalter für den Alkoholkonsum?",
+                "answers": {
+                    "Germany": "16, 18",
+                    "Austria": "16,18",
+                    "Switzerland": "16, 18"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מאיזה גיל מותר לשתות אלכוהול?",
+                "answers": {
+                    "Israel": "18"
+                }
+            },
+            "Hindi": {
+                "translated_question": "शराब पीने की कानूनी उम्र क्या है?",
+                "answers": {
+                    "India": "21, 18 या 25"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa usia legal untuk minum alkohol?",
+                "answers": {
+                    "Indonesia": "21",
+                    "Malaysia": "21"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è l'età legale per bere?",
+                "answers": {
+                    "Italy": "18 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "飲酒年齢は何歳ですか?",
+                "answers": {
+                    "Japan": "２０歳"
+                }
+            },
+            "Korean": {
+                "translated_question": "법적 음주 연령은 몇 살인가요?",
+                "answers": {
+                    "South Korea": "만 19세",
+                    "North Korea": "만 18세"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a idade legal para consumir bebidas alcoólicas?",
+                "answers": {
+                    "Portugal": "18 anos",
+                    "Brazil": "18 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "法定的饮酒年龄是多少岁？",
+                "answers": {
+                    "China\n(Chinese)": "18周岁",
+                    "Singapore\n(Chinese)": "18周岁"
+                }
+            }
+        }
+    },
+    "What kind of electric plug is used in households?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What kind of electric plug is used in households?",
+                "answers": {
+                    "USA": "Type A and Type B",
+                    "UK": "Type G",
+                    "Canada": "Type A and Type B",
+                    "Australia": "Type I",
+                    "South Africa": "Type M",
+                    "Ireland": "Type G",
+                    "New Zealand": "Type I"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Qué tipo de enchufe eléctrico se utiliza en los hogares?",
+                "answers": {
+                    "Mexico": "Tipo A y B",
+                    "USA": "Tipo A y B",
+                    "Colombia": "Tipo A y B",
+                    "Spain": "Tipo F",
+                    "Argentina": "Tipo I",
+                    "Peru": "Tipo A y C",
+                    "Venezuela": "Tipo A y B",
+                    "Chile": "Tipo C y L",
+                    "Guatemala": "Tipo A y B",
+                    "Ecuador": "Tipo A y B",
+                    "Bolivia": "Tipo A y C",
+                    "Cuba": "Tipo A y C",
+                    "the Dominican Republic": "Tipo A y B",
+                    "Honduras": "Tipo A y B",
+                    "Paraguay": "Tipo C y, en menor medida, tipo A y B",
+                    "Nicaragua": "Tipo A y B",
+                    "El Salvador": "Tipo A y B",
+                    "Costa Rica": "Tipo A y B",
+                    "Panama": "Tipo A y B",
+                    "Uruguay": "Tipo C, tipo F, tipo I y tipo L"
+                }
+            },
+            "French": {
+                "translated_question": "Quel type de prise électrique est utilisé dans les foyers ?",
+                "answers": {
+                    "France": "Type C et type F",
+                    "Congo (DR)": "Type C et type E",
+                    "Canada": "Type A et type B",
+                    "Haiti": "Type A et type B",
+                    "Belgium": "Type E et type C",
+                    "Switzerland": "Type J",
+                    "Mali": "Type E et type C"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Art von Stecker wird in Haushalten verwendet?",
+                "answers": {
+                    "Germany": "Typ F und typ C",
+                    "Austria": "Typ F und typ C",
+                    "Switzerland": "Typ J und typ C"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "איזה סוג של תקע חשמלי משמש בבתים?",
+                "answers": {
+                    "Israel": "סוג H וסוג C"
+                }
+            },
+            "Hindi": {
+                "translated_question": "घरों में किस प्रकार के विद्युत प्लग का उपयोग किया जाता है?",
+                "answers": {
+                    "India": "टाइप-डी प्लग"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Jenis steker listrik apa yang digunakan di rumah tangga?",
+                "answers": {
+                    "Indonesia": "tipe C, tipe F",
+                    "Malaysia": "tipe G"
+                }
+            },
+            "Italian": {
+                "translated_question": "Che tipo di spina elettrica si usa nelle case?",
+                "answers": {
+                    "Italy": "tipo C e tipo L"
+                }
+            },
+            "Japanese": {
+                "translated_question": "家庭ではどのような電気プラグが使われているのでしょうか？",
+                "answers": {
+                    "Japan": "Aタイプ"
+                }
+            },
+            "Korean": {
+                "translated_question": "가정에서는 어떤 종류의 전기 플러그를 사용하나요?",
+                "answers": {
+                    "South Korea": "C 타입과 F 타입",
+                    "North Korea": "C 타입"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Que tipo de tomada elétrica é usada nas residências?",
+                "answers": {
+                    "Portugal": "Tipo F",
+                    "Brazil": "Tipo N"
+                }
+            },
+            "Chinese": {
+                "translated_question": "在家庭内使用的是什么类型的电插头？",
+                "answers": {
+                    "China\n(Chinese)": "A型，C型和I型",
+                    "Singapore\n(Chinese)": "G型"
+                }
+            }
+        }
+    },
+    "What is the national emergency phone number?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the national emergency phone number?",
+                "answers": {
+                    "USA": "911",
+                    "UK": "999",
+                    "Canada": "911",
+                    "Australia": "000",
+                    "South Africa": "112",
+                    "Ireland": "112 and 999",
+                    "New Zealand": "111"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el número de teléfono de emergencia nacional?",
+                "answers": {
+                    "Mexico": "911",
+                    "USA": "911",
+                    "Colombia": "911",
+                    "Spain": "112",
+                    "Argentina": "911",
+                    "Peru": "105 o 911",
+                    "Venezuela": "911",
+                    "Chile": "133",
+                    "Guatemala": "110 o 120",
+                    "Ecuador": "911",
+                    "Bolivia": "110 o 911",
+                    "Cuba": "106",
+                    "the Dominican Republic": "911",
+                    "Honduras": "911",
+                    "Paraguay": "132",
+                    "Nicaragua": "115",
+                    "El Salvador": "911",
+                    "Costa Rica": "911",
+                    "Panama": "911",
+                    "Uruguay": "911"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est le numéro d'urgence national ?",
+                "answers": {
+                    "France": "112",
+                    "Congo (DR)": "112",
+                    "Canada": "911",
+                    "Haiti": "114 ou 122",
+                    "Belgium": "112",
+                    "Switzerland": "112",
+                    "Mali": "112"
+                }
+            },
+            "German": {
+                "translated_question": "Wie lautet die nationale Notrufnummer?",
+                "answers": {
+                    "Germany": "112",
+                    "Austria": "112",
+                    "Switzerland": "112"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו מספר הטלפון הארצי לחירום?",
+                "answers": {
+                    "Israel": "100"
+                }
+            },
+            "Hindi": {
+                "translated_question": "राष्ट्रीय आपातकालीन फ़ोन नंबर क्या है?",
+                "answers": {
+                    "India": "112"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa nomor telepon darurat nasional?",
+                "answers": {
+                    "Indonesia": "112",
+                    "Malaysia": "999"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il numero di telefono di emergenza nazionale?",
+                "answers": {
+                    "Italy": "112"
+                }
+            },
+            "Japanese": {
+                "translated_question": "全国の緊急電話番号は何ですか?",
+                "answers": {
+                    "Japan": "１１０"
+                }
+            },
+            "Korean": {
+                "translated_question": "국가 비상 전화번호는 무엇입니까?",
+                "answers": {
+                    "South Korea": "112",
+                    "North Korea": "N/A"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o número de telefone nacional de emergência?",
+                "answers": {
+                    "Portugal": "112",
+                    "Brazil": "190"
+                }
+            },
+            "Chinese": {
+                "translated_question": "全国紧急电话号码是多少？",
+                "answers": {
+                    "China\n(Chinese)": "110",
+                    "Singapore\n(Chinese)": "999"
+                }
+            }
+        }
+    },
+    "What is the shape of a stop sign?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the shape of a stop sign?",
+                "answers": {
+                    "USA": "Octagon",
+                    "UK": "Octagon",
+                    "Canada": "Octagon",
+                    "Australia": "Octagon",
+                    "South Africa": "Octagon",
+                    "Ireland": "Octagon",
+                    "New Zealand": "Octagon"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Qué forma tiene una señal de pare?",
+                "answers": {
+                    "Mexico": "Octagonal",
+                    "USA": "Octagonal",
+                    "Colombia": "Octagonal",
+                    "Spain": "Octagonal",
+                    "Argentina": "Octagonal",
+                    "Peru": "Octagonal",
+                    "Venezuela": "Octagonal",
+                    "Chile": "Octagonal",
+                    "Guatemala": "Octagonal",
+                    "Ecuador": "Octagonal",
+                    "Bolivia": "Octagonal",
+                    "Cuba": "Circular",
+                    "the Dominican Republic": "Octagonal",
+                    "Honduras": "Octagonal",
+                    "Paraguay": "Octagonal",
+                    "Nicaragua": "Octagonal",
+                    "El Salvador": "Octagonal",
+                    "Costa Rica": "Octagonal",
+                    "Panama": "Octagonal",
+                    "Uruguay": "Octagonal"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la forme d'un panneau stop ?",
+                "answers": {
+                    "France": "Octogonale",
+                    "Congo (DR)": "Octogonale",
+                    "Canada": "Octogonale",
+                    "Haiti": "Octogonale",
+                    "Belgium": "Octogonale",
+                    "Switzerland": "Octogonale",
+                    "Mali": "Octogonale"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Form hat ein Stoppschild?",
+                "answers": {
+                    "Germany": "Achteckig",
+                    "Austria": "Achteckig",
+                    "Switzerland": "Achteckig"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי צורתו של תמרור עצור?",
+                "answers": {
+                    "Israel": "מתומן"
+                }
+            },
+            "Hindi": {
+                "translated_question": "स्टॉप साइन का आकार कैसा होता है?",
+                "answers": {
+                    "India": "अष्टकोणीय"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa bentuk rambu berhenti?",
+                "answers": {
+                    "Indonesia": "oktagon",
+                    "Malaysia": "oktagon"
+                }
+            },
+            "Italian": {
+                "translated_question": "Che forma ha un segnale di stop?",
+                "answers": {
+                    "Italy": "ottagonale"
+                }
+            },
+            "Japanese": {
+                "translated_question": "一時停止の標識の形はどんな形ですか？",
+                "answers": {
+                    "Japan": "逆三角形"
+                }
+            },
+            "Korean": {
+                "translated_question": "정지 표지판의 모양은 무엇입니까?",
+                "answers": {
+                    "South Korea": "팔각형",
+                    "North Korea": "팔각형"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o formato de uma placa de pare?",
+                "answers": {
+                    "Portugal": "Um octógono ",
+                    "Brazil": "Um octógono "
+                }
+            },
+            "Chinese": {
+                "translated_question": "停车标志是什么形状的？",
+                "answers": {
+                    "China\n(Chinese)": "八角型",
+                    "Singapore\n(Chinese)": "八角型"
+                }
+            }
+        }
+    },
+    "As a default, is it allowed to turn right on red light?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "As a default, is it allowed to turn right on red light?",
+                "answers": {
+                    "USA": "Yes",
+                    "UK": "No",
+                    "Canada": "Yes, EXCEPT on the Island of Montréal",
+                    "Australia": "No",
+                    "South Africa": "No",
+                    "Ireland": "No",
+                    "New Zealand": "No"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Por defecto está permitido girar a la derecha con luz roja?",
+                "answers": {
+                    "Mexico": "Sí",
+                    "USA": "Sí",
+                    "Colombia": "No",
+                    "Spain": "No",
+                    "Argentina": "No",
+                    "Peru": "No",
+                    "Venezuela": "No",
+                    "Chile": "No",
+                    "Guatemala": "Sí",
+                    "Ecuador": "Sí",
+                    "Bolivia": "No",
+                    "Cuba": "No",
+                    "the Dominican Republic": "Sí",
+                    "Honduras": "Sí",
+                    "Paraguay": "Sí",
+                    "Nicaragua": "Sí",
+                    "El Salvador": "Sí",
+                    "Costa Rica": "Sí",
+                    "Panama": "Sí",
+                    "Uruguay": "Sí"
+                }
+            },
+            "French": {
+                "translated_question": "Est-il possible, par défaut, de tourner à droite au feu rouge ?",
+                "answers": {
+                    "France": "Non",
+                    "Congo (DR)": "Non",
+                    "Canada": "Oui, SAUF sur l'île de Montréal",
+                    "Haiti": "Non",
+                    "Belgium": "Non",
+                    "Switzerland": "Non",
+                    "Mali": "Non"
+                }
+            },
+            "German": {
+                "translated_question": "Ist es standardmäßig erlaubt, bei Rotlicht rechts abzubiegen?",
+                "answers": {
+                    "Germany": "Nein",
+                    "Austria": "Nein",
+                    "Switzerland": "Nein"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם כברירת מחדל, מותר לפנות ימינה באור אדום?",
+                "answers": {
+                    "Israel": "לא"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या डिफ़ॉल्ट रूप से लाल बत्ती होने पर दाईं ओर मुड़ने की अनुमति है?",
+                "answers": {
+                    "India": "नहीं"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Secara default, apakah diperbolehkan untuk berbelok ke kanan saat lampu merah?",
+                "answers": {
+                    "Indonesia": "tidak",
+                    "Malaysia": "tidak"
+                }
+            },
+            "Italian": {
+                "translated_question": "Di default è consentito svoltare a destra con il semaforo rosso?",
+                "answers": {
+                    "Italy": "no"
+                }
+            },
+            "Japanese": {
+                "translated_question": "デフォルトでは、赤信号で右折することは許可されていますか?",
+                "answers": {
+                    "Japan": "いいえ"
+                }
+            },
+            "Korean": {
+                "translated_question": "기본적으로 빨간불에서는 우회전이 허용되나요?",
+                "answers": {
+                    "South Korea": "네",
+                    "North Korea": "아니요"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Por padrão, é permitido virar à direita no sinal vermelho?",
+                "answers": {
+                    "Portugal": "Não",
+                    "Brazil": "Não"
+                }
+            },
+            "Chinese": {
+                "translated_question": "红灯默认是可以右转的吗？",
+                "answers": {
+                    "China\n(Chinese)": "是",
+                    "Singapore\n(Chinese)": "否"
+                }
+            }
+        }
+    },
+    "Who was the first minister of defense?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "Who was the first minister of defense?",
+                "answers": {
+                    "USA": "James Forrestal",
+                    "UK": "Winston Churchill",
+                    "Canada": "George Perry Graham",
+                    "Australia": "James Dickson",
+                    "South Africa": "General Jan Smuts",
+                    "Ireland": "Richard Mulcahy",
+                    "New Zealand": "Reader Wood"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Quién fue el primer ministro de Defensa?",
+                "answers": {
+                    "Mexico": "Pedro de la Serna",
+                    "USA": "James Forrestal",
+                    "Colombia": "Pedro Briceño Méndez",
+                    "Spain": "Manuel Gutiérrez Mellado",
+                    "Argentina": "Mariano Moreno",
+                    "Peru": "Bernardo de Monteagudo",
+                    "Venezuela": "Lino de Clemente",
+                    "Chile": "Miguel Urrutia Barboza",
+                    "Guatemala": "Coronel Jacobo Arbenz",
+                    "Ecuador": "José Vicente Isidro González Rodríguez-Terán",
+                    "Bolivia": "Alberto Sainz Klinski",
+                    "Cuba": "General de Ejército Raúl Castro Ruz",
+                    "the Dominican Republic": "General Antonio Jorge",
+                    "Honduras": "Antonio Molina Ortiz",
+                    "Paraguay": "Francisco Solano López",
+                    "Nicaragua": "Anastasio Somoza García",
+                    "El Salvador": "José Guillermo García",
+                    "Costa Rica": "Costa Rica no tiene un Ministerio de Defensa",
+                    "Panama": "Panamá no tiene un Ministerio de Defensa",
+                    "Uruguay": "Alfredo Baldomir"
+                }
+            },
+            "French": {
+                "translated_question": "Qui fut le premier ministre de la Défense ?",
+                "answers": {
+                    "France": "Paul Coste-Floret",
+                    "Congo (DR)": "Albert Nyembo",
+                    "Canada": "Sir Frederick Borden",
+                    "Haiti": "Etienne Gérin",
+                    "Belgium": "Albert Goblet d'Alviella",
+                    "Switzerland": "Ulrich Ochsenbein",
+                    "Mali": "Kissima Doukara"
+                }
+            },
+            "German": {
+                "translated_question": "Wer war der erste Verteidigungsminister?",
+                "answers": {
+                    "Germany": "Helmut Detloff Graf von Schwerin",
+                    "Austria": "Josef Mayer",
+                    "Switzerland": "Ulrich Ochsenbein"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מי היה שר הביטחון הראשון?",
+                "answers": {
+                    "Israel": "דוד בן-גוריון"
+                }
+            },
+            "Hindi": {
+                "translated_question": "प्रथम रक्षा मंत्री कौन थे?",
+                "answers": {
+                    "India": "बलदेव सिंह"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Siapa menteri pertahanan pertama?",
+                "answers": {
+                    "Indonesia": "Soepriyadi",
+                    "Malaysia": "Tun Abdul Razak Hussein"
+                }
+            },
+            "Italian": {
+                "translated_question": "Chi è stato il primo ministro della Difesa?",
+                "answers": {
+                    "Italy": "Luigi Gasparotto"
+                }
+            },
+            "Japanese": {
+                "translated_question": "初代国防大臣は誰でしたか？",
+                "answers": {
+                    "Japan": "久間章生"
+                }
+            },
+            "Korean": {
+                "translated_question": "최초의 국방부 장관은 누구였나요?",
+                "answers": {
+                    "South Korea": "이범석",
+                    "North Korea": "최용건"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quem foi o primeiro ministro da defesa?",
+                "answers": {
+                    "Portugal": "General Vasco Lourenço",
+                    "Brazil": "Elcio Álvares"
+                }
+            },
+            "Chinese": {
+                "translated_question": "第一任国防部长是谁？",
+                "answers": {
+                    "China\n(Chinese)": "彭德怀",
+                    "Singapore\n(Chinese)": "吴庆瑞"
+                }
+            }
+        }
+    },
+    "How many public holidays are there?": {
+        "category": "Holiday and Calendar",
+        "languages": {
+            "English": {
+                "translated_question": "How many public holidays are there?",
+                "answers": {
+                    "USA": "11",
+                    "UK": "8, 9, or 10",
+                    "Canada": "11",
+                    "Australia": "11-14",
+                    "South Africa": "12",
+                    "Ireland": "10",
+                    "New Zealand": "12"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuantos días festivos hay?",
+                "answers": {
+                    "Mexico": "8 días",
+                    "USA": "11 días",
+                    "Colombia": "18 días",
+                    "Spain": "14 días",
+                    "Argentina": "19 días",
+                    "Peru": "14 días",
+                    "Venezuela": "14 días",
+                    "Chile": "21 días",
+                    "Guatemala": "11 días",
+                    "Ecuador": "11 días",
+                    "Bolivia": "12 días",
+                    "Cuba": "12 días",
+                    "the Dominican Republic": "12 días",
+                    "Honduras": "11 días",
+                    "Paraguay": "12 días",
+                    "Nicaragua": "10 días",
+                    "El Salvador": "11 días",
+                    "Costa Rica": "12 días",
+                    "Panama": "12 días",
+                    "Uruguay": "15 días"
+                }
+            },
+            "French": {
+                "translated_question": "Combien y a-t-il de jours fériés ?",
+                "answers": {
+                    "France": "11",
+                    "Congo (DR)": "11",
+                    "Canada": "11",
+                    "Haiti": "18",
+                    "Belgium": "10",
+                    "Switzerland": "9-13",
+                    "Mali": "13"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele gesetzliche Feiertage gibt es?",
+                "answers": {
+                    "Germany": "9",
+                    "Austria": "13",
+                    "Switzerland": "9-15"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה חגים ציבוריים יש?",
+                "answers": {
+                    "Israel": "8 חגים (לא כולל מועדים)"
+                }
+            },
+            "Hindi": {
+                "translated_question": "कितने सार्वजनिक अवकाश हैं?",
+                "answers": {
+                    "India": "तीन"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Ada berapa hari libur umum?",
+                "answers": {
+                    "Indonesia": "17",
+                    "Malaysia": "18, 19, 20"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quanti giorni festivi ci sono?",
+                "answers": {
+                    "Italy": "12 giorni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "祝日は何日ありますか？",
+                "answers": {
+                    "Japan": "１６日"
+                }
+            },
+            "Korean": {
+                "translated_question": "공휴일은 몇 개나 있나요?",
+                "answers": {
+                    "South Korea": "16일",
+                    "North Korea": "17일에서 20일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantos feriados nacionais existem?",
+                "answers": {
+                    "Portugal": "13 feriados",
+                    "Brazil": "11 a 12 feriados"
+                }
+            },
+            "Chinese": {
+                "translated_question": "有多少个公共假期？",
+                "answers": {
+                    "China\n(Chinese)": "7个",
+                    "Singapore\n(Chinese)": "11个"
+                }
+            }
+        }
+    },
+    "What is the common format for dates?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "What is the common format for dates?",
+                "answers": {
+                    "USA": "MM/DD/YYYY",
+                    "UK": "DD/MM/YYYY",
+                    "Canada": "YYYY/MM/DD",
+                    "Australia": "DD/MM/YYYY",
+                    "South Africa": "DD/MM/YYYY",
+                    "Ireland": "DD/MM/YYYY",
+                    "New Zealand": "DD/MM/YYYY"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el formato común para las fechas?",
+                "answers": {
+                    "Mexico": "dd/mm/aaaa",
+                    "USA": "mm/dd/aaaa",
+                    "Colombia": "dd/mm/aaaa",
+                    "Spain": "dd/mm/aaaa",
+                    "Argentina": "dd/mm/aaaa",
+                    "Peru": "dd/mm/aaaa",
+                    "Venezuela": "dd/mm/aaaa",
+                    "Chile": "dd/mm/aaaa",
+                    "Guatemala": "dd/mm/aaaa",
+                    "Ecuador": "dd/mm/aaaa",
+                    "Bolivia": "dd/mm/aaaa",
+                    "Cuba": "dd/mm/aaaa",
+                    "the Dominican Republic": "dd/mm/aaaa",
+                    "Honduras": "dd/mm/aaaa",
+                    "Paraguay": "dd/mm/aaaa",
+                    "Nicaragua": "dd/mm/aaaa",
+                    "El Salvador": "dd/mm/aaaa",
+                    "Costa Rica": "dd/mm/aaaa",
+                    "Panama": "dd/mm/aaaa",
+                    "Uruguay": "dd/mm/aaaa"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est le format courant pour les dates ?",
+                "answers": {
+                    "France": "JJ MM AAAA",
+                    "Congo (DR)": "JJ MM AAAA",
+                    "Canada": "JJ MM AAAA",
+                    "Haiti": "JJ MM AAAA",
+                    "Belgium": "JJ MM AAAA",
+                    "Switzerland": "JJ MM AAAA",
+                    "Mali": "JJ MM AAAA"
+                }
+            },
+            "German": {
+                "translated_question": "Welches ist das übliche Format für Datumsangaben?",
+                "answers": {
+                    "Germany": "TT.MM.JJJJ",
+                    "Austria": "TT.MM.JJJJ",
+                    "Switzerland": "TT.MM.JJJJ"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו הפורמט הנפוץ לתאריכים?",
+                "answers": {
+                    "Israel": "יום-חודש-שנה"
+                }
+            },
+            "Hindi": {
+                "translated_question": "तिथियों का सामान्य प्रारूप क्या है?",
+                "answers": {
+                    "India": "DD-MM-YYYY"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa format umum untuk tanggal?",
+                "answers": {
+                    "Indonesia": "hari - bulan - tahun",
+                    "Malaysia": "hari - bulan - tahun"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il formato comune per le date?",
+                "answers": {
+                    "Italy": "gg/mm/aaaa"
+                }
+            },
+            "Japanese": {
+                "translated_question": "日付の一般的な形式は何ですか?",
+                "answers": {
+                    "Japan": "YYYY/MM/DD"
+                }
+            },
+            "Korean": {
+                "translated_question": "날짜의 일반적인 형식은 무엇입니까?",
+                "answers": {
+                    "South Korea": "년-월-일",
+                    "North Korea": "년-월-일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o formato comum para datas?",
+                "answers": {
+                    "Portugal": "dd/mm/aaaa (dia/ mês/ ano)",
+                    "Brazil": "dd/mm/aaaa (dia/ mês/ ano)"
+                }
+            },
+            "Chinese": {
+                "translated_question": "日期的常见格式是什么？",
+                "answers": {
+                    "China\n(Chinese)": "YYYY/MM/DD",
+                    "Singapore\n(Chinese)": "YYYY/MM/DD"
+                }
+            }
+        }
+    },
+    "What is the minimum age to apply for a driver's license?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the minimum age to apply for a driver's license?",
+                "answers": {
+                    "USA": "16 to 18",
+                    "UK": "15 years and 9 months old",
+                    "Canada": "16 to 18",
+                    "Australia": "16",
+                    "South Africa": "18",
+                    "Ireland": "17",
+                    "New Zealand": "16"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la edad mínima para solicitar una licencia de conducir?",
+                "answers": {
+                    "Mexico": "16 años",
+                    "USA": "16 o 17 años",
+                    "Colombia": "16 años",
+                    "Spain": "18 años",
+                    "Argentina": "17 años",
+                    "Peru": "18 años",
+                    "Venezuela": "18 años",
+                    "Chile": "18 años",
+                    "Guatemala": "16 años",
+                    "Ecuador": "16 años",
+                    "Bolivia": "16 años",
+                    "Cuba": "18 años",
+                    "the Dominican Republic": "18 años",
+                    "Honduras": "18 años",
+                    "Paraguay": "18 años",
+                    "Nicaragua": "18 años",
+                    "El Salvador": "18 años",
+                    "Costa Rica": "18 años",
+                    "Panama": "18 años",
+                    "Uruguay": "18 años"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'âge minimum pour faire une demande de permis de conduire ?",
+                "answers": {
+                    "France": "18 ans",
+                    "Congo (DR)": "18 ans",
+                    "Canada": "16, 18 ans",
+                    "Haiti": "18 ans",
+                    "Belgium": "18 ans",
+                    "Switzerland": "18 ans",
+                    "Mali": "18 ans"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist das Mindestalter für die Beantragung eines Führerscheins?",
+                "answers": {
+                    "Germany": "17 Jahre",
+                    "Austria": "18 Jahre",
+                    "Switzerland": "17 Jahre"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו הגיל המינימלי להוצאת רישיון נהיגה?",
+                "answers": {
+                    "Israel": "16 שנים ו-9 חודשים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "ड्राइविंग लाइसेंस के लिए आवेदन करने की न्यूनतम आयु क्या है?",
+                "answers": {
+                    "India": "18"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa usia minimum untuk mengajukan SIM?",
+                "answers": {
+                    "Indonesia": "17",
+                    "Malaysia": "16, 17"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è l'età minima per richiedere la patente di guida?",
+                "answers": {
+                    "Italy": "18 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "運転免許証を申請できる最低年齢は何歳ですか?",
+                "answers": {
+                    "Japan": "１８歳"
+                }
+            },
+            "Korean": {
+                "translated_question": "운전면허 신청 최소 연령은 몇 살입니까?",
+                "answers": {
+                    "South Korea": "만 18세",
+                    "North Korea": "만 18세"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a idade mínima para solicitar uma carteira de motorista?",
+                "answers": {
+                    "Portugal": "18 anos",
+                    "Brazil": "18 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "申请驾照的最低年龄是多少岁？",
+                "answers": {
+                    "China\n(Chinese)": "18周岁",
+                    "Singapore\n(Chinese)": "18周岁"
+                }
+            }
+        }
+    },
+    "What is the national currency?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the national currency?",
+                "answers": {
+                    "USA": "dollar (USD)",
+                    "UK": "Pound sterling (GBP)",
+                    "Canada": "Canadian dollar (CAD)",
+                    "Australia": "Australian dollar (AUD)",
+                    "South Africa": "South African rand (ZAR)",
+                    "Ireland": "euro (EUR)",
+                    "New Zealand": "New Zealand Dollar (NZD)"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la moneda nacional?",
+                "answers": {
+                    "Mexico": "Peso Mexicano (MXN)",
+                    "USA": "Dólar Estadounidense (USD)",
+                    "Colombia": "Peso Colombiano (COP)",
+                    "Spain": "Euro (EUR)",
+                    "Argentina": "Peso Argentino (ARS)",
+                    "Peru": "Sol (PEN)",
+                    "Venezuela": "Bolívar (VES)",
+                    "Chile": "Peso chileno (CLP)",
+                    "Guatemala": "Quetzal (GTQ)",
+                    "Ecuador": "Dólar Estadounidense (USD)",
+                    "Bolivia": "Boliviano (BOB)",
+                    "Cuba": "Peso cubano (CUP)",
+                    "the Dominican Republic": "Peso dominicano (DOP)",
+                    "Honduras": "Lempira (HNL)",
+                    "Paraguay": "Guaraní (PYG)",
+                    "Nicaragua": "Córdoba (NIO)",
+                    "El Salvador": "Dólar Estadounidense (USD)",
+                    "Costa Rica": "Colón costarricense (CRC)",
+                    "Panama": "Balboa (PAB)",
+                    "Uruguay": "Peso uruguayo (UYU)"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la monnaie nationale ?",
+                "answers": {
+                    "France": "Euro (EUR)",
+                    "Congo (DR)": "Franc Congolais (CDF)",
+                    "Canada": "Dollar Canadien (CAD)",
+                    "Haiti": "Gourde (HTG)",
+                    "Belgium": "Euro (EUR)",
+                    "Switzerland": "Franc suisse (CHF)",
+                    "Mali": "West African CFA franc (XOF)"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Währung gilt in dem Land?",
+                "answers": {
+                    "Germany": "Euro (EUR)",
+                    "Austria": "Euro (EUR)",
+                    "Switzerland": "Schweizer Franken (CHF)"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו המטבע הלאומי?",
+                "answers": {
+                    "Israel": "שקל חדש (ש\"ח)"
+                }
+            },
+            "Hindi": {
+                "translated_question": "राष्ट्रीय मुद्रा क्या है?",
+                "answers": {
+                    "India": "भारतीय रुपया (INR)"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa mata uang nasional?",
+                "answers": {
+                    "Indonesia": "rupiah (IDR)",
+                    "Malaysia": "ringgit (MYR)"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è la valuta nazionale?",
+                "answers": {
+                    "Italy": "euro (EUR)"
+                }
+            },
+            "Japanese": {
+                "translated_question": "国の通貨は何ですか?",
+                "answers": {
+                    "Japan": "円(JPY)"
+                }
+            },
+            "Korean": {
+                "translated_question": "국가 통화는 무엇입니까?",
+                "answers": {
+                    "South Korea": "대한민국 원 (KRW)",
+                    "North Korea": "조선민주주의인민공화국 원 (KPW)"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a moeda nacional?",
+                "answers": {
+                    "Portugal": "O Euro (EUR)",
+                    "Brazil": "O Real (BRL)"
+                }
+            },
+            "Chinese": {
+                "translated_question": "国家货币是什么？",
+                "answers": {
+                    "China\n(Chinese)": "人民币(RMB)",
+                    "Singapore\n(Chinese)": "新加坡元(SGD)"
+                }
+            }
+        }
+    },
+    "What is the national average number of children per family?": {
+        "category": "Leisure and Culture",
+        "languages": {
+            "English": {
+                "translated_question": "What is the national average number of children per family?",
+                "answers": {
+                    "USA": "1.9",
+                    "UK": "1.7",
+                    "Canada": "1.6",
+                    "Australia": "1.5",
+                    "South Africa": "2.3",
+                    "Ireland": "1.9",
+                    "New Zealand": "1.6"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el promedio nacional del número de hijos por familia?",
+                "answers": {
+                    "Mexico": "1.8 por mujer",
+                    "USA": "1.7 por mujer",
+                    "Colombia": "1.7 por mujer",
+                    "Spain": "1.2 por mujer",
+                    "Argentina": "2.2 por mujer",
+                    "Peru": "1.9 por mujer",
+                    "Venezuela": "2 por mujer",
+                    "Chile": "1.25 por mujer",
+                    "Guatemala": "2.3 por mujer",
+                    "Ecuador": "2.6 por madre",
+                    "Bolivia": "2.1 por mujer",
+                    "Cuba": "1.14 por mujer",
+                    "the Dominican Republic": "1.8-2.5 por mujer",
+                    "Honduras": "2.3 por mujer",
+                    "Paraguay": "2.2 por mujer",
+                    "Nicaragua": "2.4 por mujer",
+                    "El Salvador": "1.79 por mujer",
+                    "Costa Rica": "1.19 por mujer",
+                    "Panama": "2.3 por mujer",
+                    "Uruguay": "1.88 por mujer"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est le nombre moyen d'enfants par famille au niveau national?",
+                "answers": {
+                    "France": "1.8",
+                    "Congo (DR)": "5.7",
+                    "Canada": "1.2",
+                    "Haiti": "2.6",
+                    "Belgium": "1.47",
+                    "Switzerland": "1.56",
+                    "Mali": "5.9"
+                }
+            },
+            "German": {
+                "translated_question": "Wie hoch ist die durchschnittliche Kinderzahl pro Familie auf nationaler Ebene?",
+                "answers": {
+                    "Germany": "1,35",
+                    "Austria": "1.32",
+                    "Switzerland": "1,5"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו מספר הילדים הממוצע הארצי למשפחה?",
+                "answers": {
+                    "Israel": "3.69"
+                }
+            },
+            "Hindi": {
+                "translated_question": "प्रति परिवार बच्चों की राष्ट्रीय औसत संख्या क्या है?",
+                "answers": {
+                    "India": "2"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa jumlah rata-rata nasional anak per keluarga?",
+                "answers": {
+                    "Indonesia": "2",
+                    "Malaysia": "1.57"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il numero medio nazionale di bambini per famiglia?",
+                "answers": {
+                    "Italy": "1,20"
+                }
+            },
+            "Japanese": {
+                "translated_question": "1世帯あたりの子供の全国平均数はどれくらいですか?",
+                "answers": {
+                    "Japan": "1.12人"
+                }
+            },
+            "Korean": {
+                "translated_question": "가족당 전국 평균 자녀 수는 얼마입니까?",
+                "answers": {
+                    "South Korea": "여성 1명당 0.72명",
+                    "North Korea": "여성 1명당 1.8명"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a média nacional de filhos por família?",
+                "answers": {
+                    "Portugal": "1,54 filhos",
+                    "Brazil": "1,6 filhos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "全国平均每个家庭有多少个孩子？",
+                "answers": {
+                    "China\n(Chinese)": "每位女性2.1个孩子",
+                    "Singapore\n(Chinese)": "每位女性0.97个孩子"
+                }
+            }
+        }
+    },
+    "Can I use the same word for a group of storks and a group of elephants?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "Can I use the same word for a group of storks and a group of elephants?",
+                "answers": {
+                    "USA": "No",
+                    "UK": "No",
+                    "Canada": "No",
+                    "Australia": "No",
+                    "South Africa": "No",
+                    "Ireland": "No",
+                    "New Zealand": "No"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Puedo usar la misma palabra para un grupo de cigüeñas y un grupo de elefantes?",
+                "answers": {
+                    "Mexico": "No",
+                    "USA": "No",
+                    "Colombia": "No",
+                    "Spain": "No",
+                    "Argentina": "No",
+                    "Peru": "No",
+                    "Venezuela": "No",
+                    "Chile": "No",
+                    "Guatemala": "No",
+                    "Ecuador": "No",
+                    "Bolivia": "No",
+                    "Cuba": "No",
+                    "the Dominican Republic": "No",
+                    "Honduras": "No",
+                    "Paraguay": "No",
+                    "Nicaragua": "No",
+                    "El Salvador": "No",
+                    "Costa Rica": "No",
+                    "Panama": "No",
+                    "Uruguay": "No"
+                }
+            },
+            "French": {
+                "translated_question": "Puis-je utiliser le même mot pour un groupe de cigognes et un groupe d'éléphants ?",
+                "answers": {
+                    "France": "Non",
+                    "Congo (DR)": "Non",
+                    "Canada": "Non",
+                    "Haiti": "Non",
+                    "Belgium": "Non",
+                    "Switzerland": "Non",
+                    "Mali": "Non"
+                }
+            },
+            "German": {
+                "translated_question": "Kann ich dasselbe Wort für eine Gruppe Störche und eine Gruppe Elefanten verwenden?",
+                "answers": {
+                    "Germany": "Nein",
+                    "Austria": "Nein",
+                    "Switzerland": "Nein"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם ניתן להשתמש באותה מילה עבור קבוצת חסידות וקבוצת פילים?",
+                "answers": {
+                    "Israel": "לא"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या मैं सारसों के समूह और हाथियों के समूह के लिए एक ही शब्द का प्रयोग कर सकता हूँ?",
+                "answers": {
+                    "India": "नहीं"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Bisakah saya menggunakan kata yang sama untuk sekelompok bangau dan sekelompok gajah?",
+                "answers": {
+                    "Indonesia": "Ya",
+                    "Malaysia": "Ya"
+                }
+            },
+            "Italian": {
+                "translated_question": "Posso usare la stessa parola per un gruppo di cicogne e un gruppo di elefanti?",
+                "answers": {
+                    "Italy": "No"
+                }
+            },
+            "Japanese": {
+                "translated_question": "コウノトリの群れとゾウの群れに同じ言葉を使ってもいいでしょうか?",
+                "answers": {
+                    "Japan": "はい"
+                }
+            },
+            "Korean": {
+                "translated_question": "황새 무리와 코끼리 무리에 대해 같은 단어를 사용할 수 있나요?",
+                "answers": {
+                    "South Korea": "네",
+                    "North Korea": "네"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Posso usar a mesma palavra para um grupo de cegonhas e um grupo de elefantes?",
+                "answers": {
+                    "Portugal": "Não",
+                    "Brazil": "Não"
+                }
+            },
+            "Chinese": {
+                "translated_question": "我可以用同一个词来形容一群鹳和一群大象吗？",
+                "answers": {
+                    "China\n(Chinese)": "可以",
+                    "Singapore\n(Chinese)": "可以"
+                }
+            }
+        }
+    },
+    "in which city are the government headquarters located?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "in which city are the government headquarters located?",
+                "answers": {
+                    "USA": "Washington, DC",
+                    "UK": "The City of Westminster",
+                    "Canada": "Ottawa, Ontario",
+                    "Australia": "Canberra",
+                    "South Africa": "Pretoria",
+                    "Ireland": "Dublin",
+                    "New Zealand": "Wellington"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿En qué ciudad se encuentra la sede del gobierno?",
+                "answers": {
+                    "Mexico": "Ciudad de Mexico",
+                    "USA": "Washington, DC",
+                    "Colombia": "Bogotá, D.C.",
+                    "Spain": "Madrid",
+                    "Argentina": "Buenos Aires",
+                    "Peru": "Lima",
+                    "Venezuela": "Caracas",
+                    "Chile": "Santiago",
+                    "Guatemala": "Ciudad de Guatemala",
+                    "Ecuador": "Quito",
+                    "Bolivia": "La Paz",
+                    "Cuba": "Habana",
+                    "the Dominican Republic": "Santo Domingo",
+                    "Honduras": "Tegucigalpa",
+                    "Paraguay": "Asunción",
+                    "Nicaragua": "Managua",
+                    "El Salvador": "San Salvador",
+                    "Costa Rica": "San José",
+                    "Panama": "Panamá",
+                    "Uruguay": "Montevideo"
+                }
+            },
+            "French": {
+                "translated_question": "Dans quelle ville se trouve le siège du gouvernement ?",
+                "answers": {
+                    "France": "Paris ",
+                    "Congo (DR)": "Kinshasa",
+                    "Canada": "Ottawa",
+                    "Haiti": "Port-au-Prince",
+                    "Belgium": "Bruxelles",
+                    "Switzerland": "Berne",
+                    "Mali": "Bamako"
+                }
+            },
+            "German": {
+                "translated_question": "In welcher Stadt befindet sich der Regierungssitz?",
+                "answers": {
+                    "Germany": "Berlin",
+                    "Austria": "Wien",
+                    "Switzerland": "Bern"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "באיזו עיר נמצאים מטה הממשלה?",
+                "answers": {
+                    "Israel": "ירושלים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सरकारी मुख्यालय किस शहर में स्थित हैं?",
+                "answers": {
+                    "India": "नई दिल्ली"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "di kota manakah kantor pusat pemerintahan berada?",
+                "answers": {
+                    "Indonesia": "jakarta",
+                    "Malaysia": "Putrajaya"
+                }
+            },
+            "Italian": {
+                "translated_question": "in quale città si trovano le sedi centrali del governo?",
+                "answers": {
+                    "Italy": "Roma"
+                }
+            },
+            "Japanese": {
+                "translated_question": "政府本部はどの都市にありますか？",
+                "answers": {
+                    "Japan": "東京都"
+                }
+            },
+            "Korean": {
+                "translated_question": "정부 본부는 어느 도시에 있나요?",
+                "answers": {
+                    "South Korea": "서울",
+                    "North Korea": "평양"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Em que cidade se localiza a sede do governo?",
+                "answers": {
+                    "Portugal": "Lisboa",
+                    "Brazil": "Brasília"
+                }
+            },
+            "Chinese": {
+                "translated_question": "政府总部位于哪个城市？",
+                "answers": {
+                    "China\n(Chinese)": "北京",
+                    "Singapore\n(Chinese)": "新加坡"
+                }
+            }
+        }
+    },
+    "has the national soccer team ever won the world cup?": {
+        "category": "Leisure and Culture",
+        "languages": {
+            "English": {
+                "translated_question": "has the national soccer team ever won the world cup?",
+                "answers": {
+                    "USA": "No",
+                    "UK": "Yes",
+                    "Canada": "No",
+                    "Australia": "No",
+                    "South Africa": "No",
+                    "Ireland": "No",
+                    "New Zealand": "No"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿La selección nacional de fútbol ha ganado alguna vez la Copa del Mundo?",
+                "answers": {
+                    "Mexico": "No",
+                    "USA": "No",
+                    "Colombia": "No",
+                    "Spain": "Sí",
+                    "Argentina": "Sí",
+                    "Peru": "No",
+                    "Venezuela": "No",
+                    "Chile": "No",
+                    "Guatemala": "No",
+                    "Ecuador": "No",
+                    "Bolivia": "No",
+                    "Cuba": "No",
+                    "the Dominican Republic": "No",
+                    "Honduras": "No",
+                    "Paraguay": "No",
+                    "Nicaragua": "No",
+                    "El Salvador": "No",
+                    "Costa Rica": "No",
+                    "Panama": "No",
+                    "Uruguay": "Sí"
+                }
+            },
+            "French": {
+                "translated_question": "L'équipe nationale de football a-t-elle déjà remporté la Coupe du monde ?",
+                "answers": {
+                    "France": "Oui",
+                    "Congo (DR)": "Non",
+                    "Canada": "Non",
+                    "Haiti": "Non",
+                    "Belgium": "Non",
+                    "Switzerland": "Non",
+                    "Mali": "Non"
+                }
+            },
+            "German": {
+                "translated_question": "Hat die Nationalmannschaft jemals die Weltmeisterschaft gewonnen?",
+                "answers": {
+                    "Germany": "Ja",
+                    "Austria": "Nein",
+                    "Switzerland": "Nein"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם נבחרת הכדורגל הלאומית זכתה אי פעם בגביע העולם?",
+                "answers": {
+                    "Israel": "לא"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या राष्ट्रीय फुटबॉल टीम ने कभी विश्व कप जीता है?",
+                "answers": {
+                    "India": "नहीं"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apakah tim sepak bola nasional pernah memenangkan piala dunia?",
+                "answers": {
+                    "Indonesia": "tidak",
+                    "Malaysia": "tidak"
+                }
+            },
+            "Italian": {
+                "translated_question": "La nazionale di calcio ha mai vinto la coppa del mondo?",
+                "answers": {
+                    "Italy": "SÌ"
+                }
+            },
+            "Japanese": {
+                "translated_question": "サッカー代表チームはワールドカップで優勝したことがありますか？",
+                "answers": {
+                    "Japan": "いいえ"
+                }
+            },
+            "Korean": {
+                "translated_question": "국가 축구팀이 월드컵에서 우승한 적이 있나요?",
+                "answers": {
+                    "South Korea": "아니요",
+                    "North Korea": "아니요"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "A seleção nacional de futebol já ganhou alguma vez a Copa do Mundo?",
+                "answers": {
+                    "Portugal": "Não",
+                    "Brazil": "Sim"
+                }
+            },
+            "Chinese": {
+                "translated_question": "国家足球队曾经赢得过世界杯吗？",
+                "answers": {
+                    "China\n(Chinese)": "没有",
+                    "Singapore\n(Chinese)": "没有"
+                }
+            }
+        }
+    },
+    "which is the national anthem?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "which is the national anthem?",
+                "answers": {
+                    "USA": "The Star-Spangled Banner",
+                    "UK": "God Save the King",
+                    "Canada": "O Canada",
+                    "Australia": "Advance Australia Fair",
+                    "South Africa": "Nkosi Sikelel' iAfrika and Die Stem van Suid-Afrika",
+                    "Ireland": "Amhrán na bhFiann",
+                    "New Zealand": "\"God Defend New Zealand\" and \"God Save the King\""
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿cual es el himno nacional?",
+                "answers": {
+                    "Mexico": "Himno Nacional Mexicano",
+                    "USA": "The Star-Spangled Banner",
+                    "Colombia": "¡Oh, Gloria Inmarcesible!",
+                    "Spain": "La Marcha Real",
+                    "Argentina": "Himno Nacional Argentino",
+                    "Peru": "Himno Nacional de Perú",
+                    "Venezuela": "Himno Nacional de Venezuela",
+                    "Chile": "Himno Nacional de Chile",
+                    "Guatemala": "Himno Nacional de Guatemala",
+                    "Ecuador": "Salve, oh patria",
+                    "Bolivia": "Himno Nacional de Bolivia",
+                    "Cuba": "La Bayamesa",
+                    "the Dominican Republic": "Himno nacional de la República Dominicana",
+                    "Honduras": "Tu Bandera es un Lampo de Cielo",
+                    "Paraguay": "Himno Nacional Paraguayo",
+                    "Nicaragua": "¡Salve a ti, Nicaragua!",
+                    "El Salvador": "Saludemos la Patria",
+                    "Costa Rica": "Noble patria, tu hermosa bandera",
+                    "Panama": "Himno Istmeño",
+                    "Uruguay": "Orientales, la Patria o la Tumba"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'hymne national ?",
+                "answers": {
+                    "France": "La marseillaise",
+                    "Congo (DR)": "Debout Congolais",
+                    "Canada": "Ô Canada",
+                    "Haiti": "La Dessalinienne",
+                    "Belgium": "La Brabançonne",
+                    "Switzerland": "Cantique suisse",
+                    "Mali": "Le Mali "
+                }
+            },
+            "German": {
+                "translated_question": "Welche ist die Nationalhymne?",
+                "answers": {
+                    "Germany": "Das Lied der Deutschen",
+                    "Austria": "Land der Berge, Land am Strome",
+                    "Switzerland": "Schweizerpsalm"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו ההמנון הלאומי?",
+                "answers": {
+                    "Israel": "התקווה"
+                }
+            },
+            "Hindi": {
+                "translated_question": "राष्ट्रगान कौन सा है?",
+                "answers": {
+                    "India": "जन गण मन"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa lagu kebangsaan?",
+                "answers": {
+                    "Indonesia": "indonesia raya",
+                    "Malaysia": "negaraku"
+                }
+            },
+            "Italian": {
+                "translated_question": "qual è l'inno nazionale?",
+                "answers": {
+                    "Italy": "Il Canto degli Italiani"
+                }
+            },
+            "Japanese": {
+                "translated_question": "国歌は何ですか？",
+                "answers": {
+                    "Japan": "君が代"
+                }
+            },
+            "Korean": {
+                "translated_question": "국가는 무엇입니까?",
+                "answers": {
+                    "South Korea": "애국가",
+                    "North Korea": "애국가"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o hino nacional?",
+                "answers": {
+                    "Portugal": "A Portuguesa",
+                    "Brazil": "Hino Nacional Brasileiro"
+                }
+            },
+            "Chinese": {
+                "translated_question": "国歌是哪一首？",
+                "answers": {
+                    "China\n(Chinese)": "《义勇军进行曲》",
+                    "Singapore\n(Chinese)": "《前进吧，新加坡！》"
+                }
+            }
+        }
+    },
+    "What is my time zone?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is my time zone?",
+                "answers": {
+                    "USA": "Central Daylight Time (CDT) zone",
+                    "UK": "British Summer Time",
+                    "Canada": "Eastern Daylight Time (EDT)",
+                    "Australia": "Australian Eastern Standard Time (AEST)",
+                    "South Africa": "South African Standard Time",
+                    "Ireland": "Irish Standard Time",
+                    "New Zealand": "NZST"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cual es mi zona horaria?",
+                "answers": {
+                    "Mexico": "Zona Sureste: UTC –5, Zona Centro: UTC –6, Zona Pacífico: UTC –7 y Zona Noroeste: UTC –8 (UTC –7 en verano)",
+                    "USA": "Este (ET), Central (CT), Montaña (MN) y Pacífico (PT)",
+                    "Colombia": "Colombia Time (COT), UTC-5",
+                    "Spain": "UTC+1 en invierno y UTC+2 en verano",
+                    "Argentina": "UTC-3",
+                    "Peru": "UTC-5",
+                    "Venezuela": "GMT-4",
+                    "Chile": "GMT-4",
+                    "Guatemala": "GMT-6",
+                    "Ecuador": "GMT-5",
+                    "Bolivia": "GMT-4",
+                    "Cuba": "GMT-4",
+                    "the Dominican Republic": "GMT-4",
+                    "Honduras": "UTC-6",
+                    "Paraguay": "UTC-4",
+                    "Nicaragua": "UTC-6",
+                    "El Salvador": "UTC-6",
+                    "Costa Rica": "UTC-6",
+                    "Panama": "UTC-5",
+                    "Uruguay": "UTC-3"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est mon fuseau horaire ?",
+                "answers": {
+                    "France": "heure normale d'Europe centrale",
+                    "Congo (DR)": "heure normale d’Afrique centrale",
+                    "Canada": "Heure de l'Atlantique\nUTC−04:00, Heure du Pacifique\nUTC−08:00, Heure des Rocheuses\nUTC−07:00, Heure du Centre\nUTC−06:00, Heure de l'Est\nUTC−05:00, Heure de Terre-Neuve\nUTC−03:30",
+                    "Haiti": "Fuseau horaire de l'Est standard (UTC−5)\nHeure avancée de l'Est (UTC−4)",
+                    "Belgium": "GMT+2 (Europe/Brussels, CEST)",
+                    "Switzerland": "GMT+2 (Europe/Zurich, CEST)",
+                    "Mali": "GMT (Africa/Bamako, GMT)"
+                }
+            },
+            "German": {
+                "translated_question": "In welcher Zeitzone bin ich?",
+                "answers": {
+                    "Germany": "mitteleuropäische Zeit (MEZ; englisch Central European Time, CET)",
+                    "Austria": "CET",
+                    "Switzerland": "MEZ und MESZ"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו אזור הזמן שלי?",
+                "answers": {
+                    "Israel": "UTC+2 / UTC+3"
+                }
+            },
+            "Hindi": {
+                "translated_question": "मेरा समय क्षेत्र क्या है?",
+                "answers": {
+                    "India": "भारत मानक समय"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa zona waktu saya?",
+                "answers": {
+                    "Indonesia": "WIB / UTC+7, WITA / UTC+8, WIT / UTC+9",
+                    "Malaysia": "MST / UTC+8"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il mio fuso orario?",
+                "answers": {
+                    "Italy": "CET (Central European Time)"
+                }
+            },
+            "Japanese": {
+                "translated_question": "私のタイムゾーンは何ですか?",
+                "answers": {
+                    "Japan": "JST"
+                }
+            },
+            "Korean": {
+                "translated_question": "내 시간대는 어떻게 되나요?",
+                "answers": {
+                    "South Korea": "KST",
+                    "North Korea": "Pyongyang Time"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o meu fuso horário?",
+                "answers": {
+                    "Portugal": "WET (Western European Timezone)",
+                    "Brazil": "GMT -2, GMT -3 (hora oficial do país), GMT -4 e GMT -5"
+                }
+            },
+            "Chinese": {
+                "translated_question": "我的时区是？",
+                "answers": {
+                    "China\n(Chinese)": "东八区",
+                    "Singapore\n(Chinese)": "东八区"
+                }
+            }
+        }
+    },
+    "Can I get a fine for jaywalking according to the law?": {
+        "category": "Law",
+        "languages": {
+            "English": {
+                "translated_question": "Can I get a fine for jaywalking according to the law?",
+                "answers": {
+                    "USA": "Yes",
+                    "UK": "No, except in Northern Ireland",
+                    "Canada": "Yes",
+                    "Australia": "Yes",
+                    "South Africa": "Yes",
+                    "Ireland": "Yes",
+                    "New Zealand": "Yes"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Puedo recibir una multa por cruzar la calle de forma imprudente según la ley?",
+                "answers": {
+                    "Mexico": "Sí",
+                    "USA": "Sí",
+                    "Colombia": "Sí",
+                    "Spain": "Sí",
+                    "Argentina": "Sí",
+                    "Peru": "Sí",
+                    "Venezuela": "Sí",
+                    "Chile": "Sí",
+                    "Guatemala": "Sí",
+                    "Ecuador": "Sí",
+                    "Bolivia": "Sí",
+                    "Cuba": "Sí",
+                    "the Dominican Republic": "Sí",
+                    "Honduras": "Sí",
+                    "Paraguay": "Sí",
+                    "Nicaragua": "Sí",
+                    "El Salvador": "Sí",
+                    "Costa Rica": "Sí",
+                    "Panama": "Sí",
+                    "Uruguay": "Sí"
+                }
+            },
+            "French": {
+                "translated_question": "Puis-je recevoir une amende pour avoir traversé la rue en dehors des passages piétons, conformément à la loi ?",
+                "answers": {
+                    "France": "Oui",
+                    "Congo (DR)": "Non",
+                    "Canada": "Oui",
+                    "Haiti": "Non",
+                    "Belgium": "Oui",
+                    "Switzerland": "Oui",
+                    "Mali": "Oui"
+                }
+            },
+            "German": {
+                "translated_question": "Kann ich laut Gesetz für das Überqueren der Straße bei Rot eine Geldstrafe bekommen?",
+                "answers": {
+                    "Germany": "Ja",
+                    "Austria": "Ja",
+                    "Switzerland": "Ja"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם אפשר לקבל קנס על חצייה באור אדום או שלא במעבר חצייה?",
+                "answers": {
+                    "Israel": "כן"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या कानून के अनुसार सड़क पार करने पर मुझे जुर्माना देना पड़ सकता है?",
+                "answers": {
+                    "India": "हाँ"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apakah saya bisa dikenai denda karena menyeberang jalan sembarangan menurut hukum?",
+                "answers": {
+                    "Indonesia": "Ya",
+                    "Malaysia": "Ya"
+                }
+            },
+            "Italian": {
+                "translated_question": "Posso ricevere una multa per aver attraversato la strada in modo scorretto, secondo la legge?",
+                "answers": {
+                    "Italy": "Sì"
+                }
+            },
+            "Japanese": {
+                "translated_question": "法律上、道路標識を無視して歩行すると罰金が科せられますか？",
+                "answers": {
+                    "Japan": "はい"
+                }
+            },
+            "Korean": {
+                "translated_question": "법에 따라 횡단보도를 무시하면 벌금을 받을 수 있나요?",
+                "answers": {
+                    "South Korea": "네",
+                    "North Korea": "네"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Posso ser multado por atravessar a rua fora da faixa de pedestres, de acordo com a lei?",
+                "answers": {
+                    "Portugal": "Sim",
+                    "Brazil": "Sim"
+                }
+            },
+            "Chinese": {
+                "translated_question": "根据法律，我横穿马路会被罚款吗？",
+                "answers": {
+                    "China\n(Chinese)": "会",
+                    "Singapore\n(Chinese)": "会"
+                }
+            }
+        }
+    },
+    "What is the retirement age?": {
+        "category": "Leisure and Culture",
+        "languages": {
+            "English": {
+                "translated_question": "What is the retirement age?",
+                "answers": {
+                    "USA": "67",
+                    "UK": "66",
+                    "Canada": "65",
+                    "Australia": "67",
+                    "South Africa": "65",
+                    "Ireland": "66",
+                    "New Zealand": "65"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la edad de jubilación?",
+                "answers": {
+                    "Mexico": "65 años",
+                    "USA": "66-67 años",
+                    "Colombia": "57 años para las mujeres y 62 años para los hombres",
+                    "Spain": "65 años",
+                    "Argentina": "60 años para las mujeres y 65 años para los hombres",
+                    "Peru": "65 años",
+                    "Venezuela": "60 años",
+                    "Chile": "60 años para mujer y 65 años para hombre",
+                    "Guatemala": "60 años",
+                    "Ecuador": "60 años",
+                    "Bolivia": "58 años",
+                    "Cuba": "60 años para mujeres y 65 años para hombres",
+                    "the Dominican Republic": "60 años",
+                    "Honduras": "60 años para mujeres y 65 años para hombres",
+                    "Paraguay": "60 años",
+                    "Nicaragua": "60 años",
+                    "El Salvador": "60 años para los hombres y 55 años para las mujeres",
+                    "Costa Rica": "65 años",
+                    "Panama": "62 años para los hombres y 57 años para las mujeres",
+                    "Uruguay": "65 años"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'âge de la retraite ?",
+                "answers": {
+                    "France": "62 ans et 7 mois ",
+                    "Congo (DR)": "60",
+                    "Canada": "65",
+                    "Haiti": "55",
+                    "Belgium": "65",
+                    "Switzerland": "65",
+                    "Mali": "58-65"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist das Renteneintrittsalter?",
+                "answers": {
+                    "Germany": "67 Jahre",
+                    "Austria": "60 oder 65 Jahre",
+                    "Switzerland": "65 Jahre"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו גיל הפרישה?",
+                "answers": {
+                    "Israel": "65 לנשים, 67 לגברים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सेवानिवृत्ति की आयु क्या है?",
+                "answers": {
+                    "India": "60"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa usia pensiun?",
+                "answers": {
+                    "Indonesia": "59",
+                    "Malaysia": "60"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è l'età pensionabile?",
+                "answers": {
+                    "Italy": "67 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "定年年齢は何歳ですか？",
+                "answers": {
+                    "Japan": "６０歳"
+                }
+            },
+            "Korean": {
+                "translated_question": "은퇴 연령은 몇 살인가요?",
+                "answers": {
+                    "South Korea": "만 60세",
+                    "North Korea": "남성: 만 60세\n여성: 만 55세"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a idade de aposentadoria?",
+                "answers": {
+                    "Portugal": "66 anos",
+                    "Brazil": "62 anos para mulheres e 65 para homens"
+                }
+            },
+            "Chinese": {
+                "translated_question": "退休年龄是多少岁？",
+                "answers": {
+                    "China\n(Chinese)": "男性60周岁，女干部55周岁，女工人50周岁。",
+                    "Singapore\n(Chinese)": "63岁"
+                }
+            }
+        }
+    },
+    "What is the national life expectancy?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the national life expectancy?",
+                "answers": {
+                    "USA": "Mid-to-high 70s",
+                    "UK": "78.8 years for males and 82.8 years for females",
+                    "Canada": "81.7 years",
+                    "Australia": "81.1 years (males), 85.1 years (females)",
+                    "South Africa": "65.32 years",
+                    "Ireland": "82.75",
+                    "New Zealand": "82.76 years"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la esperanza de vida a nivel nacional?",
+                "answers": {
+                    "Mexico": "75 años",
+                    "USA": "77 años",
+                    "Colombia": "75 años",
+                    "Spain": "83 años",
+                    "Argentina": "77 años",
+                    "Peru": "76 años",
+                    "Venezuela": "72.51 años",
+                    "Chile": "81.17 años",
+                    "Guatemala": "72.6 años",
+                    "Ecuador": "77.2 años",
+                    "Bolivia": "68.58 años",
+                    "Cuba": "78.09 años",
+                    "the Dominican Republic": "73.72 años",
+                    "Honduras": "77,5 años",
+                    "Paraguay": "73,4 años",
+                    "Nicaragua": "74,95 años",
+                    "El Salvador": "74,46 años",
+                    "Costa Rica": "80,8 años",
+                    "Panama": "79,59 años",
+                    "Uruguay": "78,14 años"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est l'espérance de vie nationale ?",
+                "answers": {
+                    "France": "82 ans ",
+                    "Congo (DR)": "62.4 ans",
+                    "Canada": "81.65 ans",
+                    "Haiti": "65,51 ans",
+                    "Belgium": "82,4 ans",
+                    "Switzerland": "84,37 ans",
+                    "Mali": "60,8 ans"
+                }
+            },
+            "German": {
+                "translated_question": "Wie hoch ist die nationale Lebenserwartung?",
+                "answers": {
+                    "Germany": "78,5 Jahren - Männer, 83,2 Jahren - Frauen",
+                    "Austria": "82.21 Jahren",
+                    "Switzerland": "84 Jahren"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי תוחלת החיים הארצית?",
+                "answers": {
+                    "Israel": "81.7 לגברים ו-85.7 לנשים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "राष्ट्रीय जीवन प्रत्याशा क्या है?",
+                "answers": {
+                    "India": "72"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa harapan hidup nasional?",
+                "answers": {
+                    "Indonesia": "72.39",
+                    "Malaysia": "76.99"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è l'aspettativa di vita nazionale?",
+                "answers": {
+                    "Italy": "83 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "国民の平均寿命はどれくらいですか？",
+                "answers": {
+                    "Japan": "男性が約81.09歳、女性が約87.14歳"
+                }
+            },
+            "Korean": {
+                "translated_question": "국민의 평균 수명은 얼마입니까?",
+                "answers": {
+                    "South Korea": "남성: 80.6세\n여성: 86.6세",
+                    "North Korea": "남성: 69.3세\n여성: 76.9세"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a expectativa de vida nacional?",
+                "answers": {
+                    "Portugal": "82,5 anos",
+                    "Brazil": "76,4 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "全国预期寿命是多少？",
+                "answers": {
+                    "China\n(Chinese)": "78.6岁",
+                    "Singapore\n(Chinese)": "83.5岁"
+                }
+            }
+        }
+    },
+    "How often are elections held?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "How often are elections held?",
+                "answers": {
+                    "USA": "Every 2 years",
+                    "UK": "every 5 years",
+                    "Canada": "every 4 years",
+                    "Australia": "Every 3 years",
+                    "South Africa": "Every 5 years",
+                    "Ireland": "Every 5 years",
+                    "New Zealand": "Every 3 years"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Con qué frecuencia se celebran elecciones?",
+                "answers": {
+                    "Mexico": "Cada 6 años",
+                    "USA": "Cada 4 años",
+                    "Colombia": "Cada 4 años",
+                    "Spain": "Cada 4 años",
+                    "Argentina": "Cada 4 años",
+                    "Peru": "Cada 5 años",
+                    "Venezuela": "Cada 5 años",
+                    "Chile": "Cada 4 años",
+                    "Guatemala": "Cada 4 años",
+                    "Ecuador": "Cada 4 años",
+                    "Bolivia": "Cada 4 años",
+                    "Cuba": "Cada 5 años",
+                    "the Dominican Republic": "Cada 4 años",
+                    "Honduras": "Cada 4 años",
+                    "Paraguay": "Cada 5 años",
+                    "Nicaragua": "Cada 5 años",
+                    "El Salvador": "Cada 5 años",
+                    "Costa Rica": "Cada 4 años",
+                    "Panama": "Cada 5 años",
+                    "Uruguay": "Cada 5 años"
+                }
+            },
+            "French": {
+                "translated_question": "À quelle fréquence se tiennent les élections ?",
+                "answers": {
+                    "France": "Tous les 5 ans",
+                    "Congo (DR)": "Tous les 5 ans",
+                    "Canada": "Tous les 4 ans",
+                    "Haiti": "N/A",
+                    "Belgium": "Tous les 5 ans",
+                    "Switzerland": "Tous les 4 ans",
+                    "Mali": "Tous les 5 ans"
+                }
+            },
+            "German": {
+                "translated_question": "Wie oft finden Wahlen statt?",
+                "answers": {
+                    "Germany": "Alle 4 Jahre",
+                    "Austria": "Alle 5 Jahre",
+                    "Switzerland": "Alle 4 Jahre"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "באיזו תדירות מתקיימות בחירות?",
+                "answers": {
+                    "Israel": "כל ארבע שנים"
+                }
+            },
+            "Hindi": {
+                "translated_question": "चुनाव कितनी बार आयोजित किये जाते हैं?",
+                "answers": {
+                    "India": "हर पांच साल में"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Seberapa sering pemilu diadakan?",
+                "answers": {
+                    "Indonesia": "5 tahun sekali",
+                    "Malaysia": "5 tahun sekali"
+                }
+            },
+            "Italian": {
+                "translated_question": "Con quale frequenza si tengono le elezioni?",
+                "answers": {
+                    "Italy": "ogni 5 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "選挙はどのくらいの頻度で行われますか？",
+                "answers": {
+                    "Japan": "四年に一度"
+                }
+            },
+            "Korean": {
+                "translated_question": "선거는 얼마나 자주 치러지나요?",
+                "answers": {
+                    "South Korea": "4~5년마다",
+                    "North Korea": "5년마다"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Com que frequência são realizadas eleições?",
+                "answers": {
+                    "Portugal": "4-5 anos",
+                    "Brazil": "4 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "选举多久举行一次？",
+                "answers": {
+                    "China\n(Chinese)": "五年一次",
+                    "Singapore\n(Chinese)": "五年一次"
+                }
+            }
+        }
+    },
+    "At what age do kids formally start learning to read in school?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "At what age do kids formally start learning to read in school?",
+                "answers": {
+                    "USA": "5-6 years",
+                    "UK": "4 years",
+                    "Canada": "5 years",
+                    "Australia": "5-6 years",
+                    "South Africa": "6 years",
+                    "Ireland": "4-5 years",
+                    "New Zealand": "5 years"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿A qué edad los niños comienzan formalmente a aprender a leer en la escuela?",
+                "answers": {
+                    "Mexico": "A los 6 años",
+                    "USA": "A los 5 años",
+                    "Colombia": "A los 6 años",
+                    "Spain": "A los 6 años",
+                    "Argentina": "A los 6 años",
+                    "Peru": "A los 6 años",
+                    "Venezuela": "A los 6 o 7 años",
+                    "Chile": "A los 6 años",
+                    "Guatemala": "A los 6 años",
+                    "Ecuador": "A los 5 años",
+                    "Bolivia": "A los 6 años",
+                    "Cuba": "A los 6 años",
+                    "the Dominican Republic": "A los 6 años",
+                    "Honduras": "A los 6 años",
+                    "Paraguay": "A los 6 años",
+                    "Nicaragua": "A los 6 años",
+                    "El Salvador": "A los 6 años",
+                    "Costa Rica": "A los 6 o 7 años",
+                    "Panama": "A los 6 años",
+                    "Uruguay": "A los 6 años"
+                }
+            },
+            "French": {
+                "translated_question": "À quel âge les enfants commencent-ils officiellement à apprendre à lire à l'école ?",
+                "answers": {
+                    "France": "6 ans",
+                    "Congo (DR)": "6 ans",
+                    "Canada": "6 ans ",
+                    "Haiti": "6 ans",
+                    "Belgium": "6 ans",
+                    "Switzerland": "6 ans",
+                    "Mali": "7 ans"
+                }
+            },
+            "German": {
+                "translated_question": "In welchem ​​Alter beginnen Kinder in der Schule formell mit dem Lesenlernen?",
+                "answers": {
+                    "Germany": "6-7 Jahre alt",
+                    "Austria": "6 Jahre Alt",
+                    "Switzerland": "7 Jahre alt"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "באיזה גיל ילדים מתחילים באופן רשמי ללמוד לקרוא בבית הספר?",
+                "answers": {
+                    "Israel": "6"
+                }
+            },
+            "Hindi": {
+                "translated_question": "किस उम्र में बच्चे औपचारिक रूप से स्कूल में पढ़ना सीखना शुरू करते हैं?",
+                "answers": {
+                    "India": "5-6"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Pada usia berapa anak-anak secara formal mulai belajar membaca di sekolah?",
+                "answers": {
+                    "Indonesia": "6-7 tahun",
+                    "Malaysia": "7 tahun"
+                }
+            },
+            "Italian": {
+                "translated_question": "A che età i bambini iniziano formalmente a imparare a leggere a scuola?",
+                "answers": {
+                    "Italy": "6 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "子供たちは何歳から学校で正式に読み方を学び始めるのでしょうか?",
+                "answers": {
+                    "Japan": "６歳"
+                }
+            },
+            "Korean": {
+                "translated_question": "아이들은 언제부터 학교에서 공식적으로 독서를 배우기 시작합니까?",
+                "answers": {
+                    "South Korea": "만 6세",
+                    "North Korea": "만 5세"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Com que idade as crianças começam formalmente a aprender a ler na escola?",
+                "answers": {
+                    "Portugal": "6 anos",
+                    "Brazil": "6 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "孩子们在几岁开始在学校正式学习？",
+                "answers": {
+                    "China\n(Chinese)": "六岁",
+                    "Singapore\n(Chinese)": "六岁"
+                }
+            }
+        }
+    },
+    "Is it illegal to carry pepper spray?": {
+        "category": "Law",
+        "languages": {
+            "English": {
+                "translated_question": "Is it illegal to carry pepper spray?",
+                "answers": {
+                    "USA": "No",
+                    "UK": "Yes",
+                    "Canada": "Yes",
+                    "Australia": "Yes, except for Western Australia, where it's considered a controlled weapon.",
+                    "South Africa": "No",
+                    "Ireland": "Yes",
+                    "New Zealand": "Yes"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Es ilegal llevar gas pimienta?",
+                "answers": {
+                    "Mexico": "No",
+                    "USA": "No",
+                    "Colombia": "No",
+                    "Spain": "No",
+                    "Argentina": "No",
+                    "Peru": "No",
+                    "Venezuela": "Sí",
+                    "Chile": "No",
+                    "Guatemala": "No",
+                    "Ecuador": "No",
+                    "Bolivia": "Sí",
+                    "Cuba": "No",
+                    "the Dominican Republic": "No",
+                    "Honduras": "Sí",
+                    "Paraguay": "Sí",
+                    "Nicaragua": "Sí",
+                    "El Salvador": "Sí",
+                    "Costa Rica": "Sí",
+                    "Panama": "Sí",
+                    "Uruguay": "Sí"
+                }
+            },
+            "French": {
+                "translated_question": "Est-il illégal de porter une bombe lacrymogène ?",
+                "answers": {
+                    "France": "Oui",
+                    "Congo (DR)": "Non",
+                    "Canada": "Oui",
+                    "Haiti": "Oui",
+                    "Belgium": "Oui",
+                    "Switzerland": "Non",
+                    "Mali": "Non"
+                }
+            },
+            "German": {
+                "translated_question": "Ist es illegal, Pfefferspray mit sich zu führen?",
+                "answers": {
+                    "Germany": "Nein",
+                    "Austria": "Nein",
+                    "Switzerland": "Nein"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם זה לא חוקי לשאת גז פלפל?",
+                "answers": {
+                    "Israel": "כן"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या मिर्च स्प्रे ले जाना गैरकानूनी है?",
+                "answers": {
+                    "India": "नहीं"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apakah ilegal membawa semprotan merica?",
+                "answers": {
+                    "Indonesia": "tidak",
+                    "Malaysia": "tidak"
+                }
+            },
+            "Italian": {
+                "translated_question": "È illegale portare con sé lo spray al peperoncino?",
+                "answers": {
+                    "Italy": "No"
+                }
+            },
+            "Japanese": {
+                "translated_question": "催涙スプレーを携帯するのは違法ですか？",
+                "answers": {
+                    "Japan": "いいえ"
+                }
+            },
+            "Korean": {
+                "translated_question": "후추 스프레이를 휴대하는 것은 불법인가요?",
+                "answers": {
+                    "South Korea": "네",
+                    "North Korea": "아니요"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "É ilegal portar spray de pimenta?",
+                "answers": {
+                    "Portugal": "Não",
+                    "Brazil": "Sim"
+                }
+            },
+            "Chinese": {
+                "translated_question": "携带胡椒喷雾是否违法？",
+                "answers": {
+                    "China\n(Chinese)": "是",
+                    "Singapore\n(Chinese)": "是"
+                }
+            }
+        }
+    },
+    "What is the mandatory duration of parental leave?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "What is the mandatory duration of parental leave?",
+                "answers": {
+                    "USA": "There is no mandatory paid parental leave at the federal level. However, the Family and Medical Leave Act (FMLA) provides up to 12 weeks of unpaid, job-protected leave for eligible employees for reasons such as the birth or adoption of a child",
+                    "UK": "18 weeks",
+                    "Canada": "63 weeks",
+                    "Australia": "12-24 months",
+                    "South Africa": "4 months for the birth mother & 10 days for Non-birth parents",
+                    "Ireland": "26 weeks",
+                    "New Zealand": "26 weeks"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la duración obligatoria de la licencia parental?",
+                "answers": {
+                    "Mexico": "12 semanas pagadas para las madres y 5 dias para los padres",
+                    "USA": "No hay",
+                    "Colombia": "18 semanas para las madres y 2 semanas para los padres",
+                    "Spain": "16 semanas tanto para la madre como para el padre",
+                    "Argentina": "90 días para la madre y 2 días para el padre",
+                    "Peru": "98 días para la madre y 10 días para el padre",
+                    "Venezuela": "14 dias consecutivos para los padres y 20 semanas para las madres",
+                    "Chile": "12 semanas",
+                    "Guatemala": "12 semanas",
+                    "Ecuador": "15 días",
+                    "Bolivia": "45 días antes hasta 45 días después del alumbramiento para madres, 10 días para padres",
+                    "Cuba": "15 meses",
+                    "the Dominican Republic": "14 semanas",
+                    "Honduras": "70 dias",
+                    "Paraguay": "Licencia maternidad: 126 dias; licencia paternidad: 14 dias",
+                    "Nicaragua": "Licencia maternidad: 84 dias; licencia paternidad: 5 dias",
+                    "El Salvador": "Licencia maternidad: 84 dias; licencia paternidad: 3 dias",
+                    "Costa Rica": "Licencia maternidad: 120 dias",
+                    "Panama": "Licencia maternidad: 98 dias; licencia paternidad: 3 dias",
+                    "Uruguay": "Licencia maternidad: 93 dias; licencia paternidad: 13 dias"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la durée obligatoire du congé parental ?",
+                "answers": {
+                    "France": "1 an maximum",
+                    "Congo (DR)": "14 semaines",
+                    "Canada": "37 semaines",
+                    "Haiti": "14 semaines",
+                    "Belgium": "15 semaines",
+                    "Switzerland": "14 semaines",
+                    "Mali": "14 semaines"
+                }
+            },
+            "German": {
+                "translated_question": "Wie lange ist die obligatorische Dauer des Elternurlaubs?",
+                "answers": {
+                    "Germany": "Die Elternzeit ist in Deutschland nicht zwingend",
+                    "Austria": "Maximal 7 Jahren",
+                    "Switzerland": "14 Wochen"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה זמן נמשכת חופשת הלידה?",
+                "answers": {
+                    "Israel": "15-26 שבועות"
+                }
+            },
+            "Hindi": {
+                "translated_question": "माता-पिता की छुट्टी की अनिवार्य अवधि क्या है?",
+                "answers": {
+                    "India": "26 सप्ताह"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa lama durasi wajib cuti orang tua?",
+                "answers": {
+                    "Indonesia": "3 bulan, 2 hari ",
+                    "Malaysia": "98 hari, 7 hari"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è la durata obbligatoria del congedo parentale?",
+                "answers": {
+                    "Italy": "10 mesi"
+                }
+            },
+            "Japanese": {
+                "translated_question": "育児休暇の義務期間はどのくらいですか?",
+                "answers": {
+                    "Japan": "1年"
+                }
+            },
+            "Korean": {
+                "translated_question": "의무적인 육아휴직 기간은 얼마입니까?",
+                "answers": {
+                    "South Korea": "1년",
+                    "North Korea": "N/A"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a duração obrigatória da licença parental?",
+                "answers": {
+                    "Portugal": "120 ou 150 dias consecutivos",
+                    "Brazil": "No Brasil, a licença-paternidade obrigatória tem a duração de 5 dias corridos, mas pode ser estendida para 20 dias para pais que trabalham em empresas participantes do Programa Empresa Cidadã. "
+                }
+            },
+            "Chinese": {
+                "translated_question": "强制性的育儿假有多长？",
+                "answers": {
+                    "China\n(Chinese)": "5至20天",
+                    "Singapore\n(Chinese)": "符合条件的在职父母只要最年幼的新加坡籍孩子年龄在7岁以下，每年可享有6天的政府资助有薪育儿假。"
+                }
+            }
+        }
+    },
+    "what is my international telephone country code?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "what is my international telephone country code?",
+                "answers": {
+                    "USA": "1",
+                    "UK": "44",
+                    "Canada": "1",
+                    "Australia": "61",
+                    "South Africa": "27",
+                    "Ireland": "353",
+                    "New Zealand": "64"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el código de país de mi teléfono internacional?",
+                "answers": {
+                    "Mexico": "52",
+                    "USA": "1",
+                    "Colombia": "57",
+                    "Spain": "34",
+                    "Argentina": "54",
+                    "Peru": "51",
+                    "Venezuela": "58",
+                    "Chile": "56",
+                    "Guatemala": "502",
+                    "Ecuador": "593",
+                    "Bolivia": "591",
+                    "Cuba": "53",
+                    "the Dominican Republic": "1",
+                    "Honduras": "504",
+                    "Paraguay": "595",
+                    "Nicaragua": "505",
+                    "El Salvador": "503",
+                    "Costa Rica": "506",
+                    "Panama": "507",
+                    "Uruguay": "598"
+                }
+            },
+            "French": {
+                "translated_question": "Quel est l'indicatif téléphonique international de mon pays ?",
+                "answers": {
+                    "France": "33",
+                    "Congo (DR)": "243",
+                    "Canada": "1",
+                    "Haiti": "509",
+                    "Belgium": "32",
+                    "Switzerland": "41",
+                    "Mali": "223"
+                }
+            },
+            "German": {
+                "translated_question": "Wie lautet meine internationale Telefonvorwahl?",
+                "answers": {
+                    "Germany": "49",
+                    "Austria": "43",
+                    "Switzerland": "41"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי הקידומת הטלפונית הבינלאומית שלי?",
+                "answers": {
+                    "Israel": "972"
+                }
+            },
+            "Hindi": {
+                "translated_question": "मेरा अंतर्राष्ट्रीय टेलीफोन देश कोड क्या है?",
+                "answers": {
+                    "India": "91"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "apa kode negara telepon internasional saya?",
+                "answers": {
+                    "Indonesia": "62",
+                    "Malaysia": "60"
+                }
+            },
+            "Italian": {
+                "translated_question": "qual è il prefisso telefonico internazionale del mio paese?",
+                "answers": {
+                    "Italy": "39"
+                }
+            },
+            "Japanese": {
+                "translated_question": "私の国際電話の国番号は何ですか?",
+                "answers": {
+                    "Japan": "８１"
+                }
+            },
+            "Korean": {
+                "translated_question": "내 국제전화 국가번호는 무엇인가요?",
+                "answers": {
+                    "South Korea": "82",
+                    "North Korea": "850"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é o código telefônico internacional do meu país?",
+                "answers": {
+                    "Portugal": "351",
+                    "Brazil": "55"
+                }
+            },
+            "Chinese": {
+                "translated_question": "我的国际电话国家代码是多少？",
+                "answers": {
+                    "China\n(Chinese)": "86",
+                    "Singapore\n(Chinese)": "65"
+                }
+            }
+        }
+    },
+    "How many paid vacation days are workers legally entitled to?": {
+        "category": "Law",
+        "languages": {
+            "English": {
+                "translated_question": "How many paid vacation days are workers legally entitled to?",
+                "answers": {
+                    "USA": "N/A",
+                    "UK": "5.6 weeks per year",
+                    "Canada": "10 days per year",
+                    "Australia": "4 weeks per year",
+                    "South Africa": "15 days per year",
+                    "Ireland": "4 weeks per year",
+                    "New Zealand": "Min. 4 weeks"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿A cuántos días de vacaciones pagadas tienen derecho legal los trabajadores?",
+                "answers": {
+                    "Mexico": "12-30 días",
+                    "USA": "N/A",
+                    "Colombia": "15 días",
+                    "Spain": "22 diás",
+                    "Argentina": "14-35 días calendatio",
+                    "Peru": "30 días calendatio",
+                    "Venezuela": "15-30 días",
+                    "Chile": "15 días",
+                    "Guatemala": "15 días",
+                    "Ecuador": "15 días",
+                    "Bolivia": "15 días",
+                    "Cuba": "30 días",
+                    "the Dominican Republic": "14 días",
+                    "Honduras": "10-20 días",
+                    "Paraguay": "12-30 días",
+                    "Nicaragua": "30 días",
+                    "El Salvador": "15 días",
+                    "Costa Rica": "14 días calendatio por cada 50 semanas",
+                    "Panama": "30 días",
+                    "Uruguay": "20 días"
+                }
+            },
+            "French": {
+                "translated_question": "À combien de jours de congés payés les travailleurs ont-ils légalement droit ?",
+                "answers": {
+                    "France": "30 jours",
+                    "Congo (DR)": "12 jours",
+                    "Canada": "10 jours",
+                    "Haiti": "15 jours",
+                    "Belgium": "20 jours",
+                    "Switzerland": "20 jours",
+                    "Mali": "24 jours"
+                }
+            },
+            "German": {
+                "translated_question": "Auf wie viele bezahlte Urlaubstage haben Arbeitnehmer gesetzlich Anspruch?",
+                "answers": {
+                    "Germany": "20 Tage",
+                    "Austria": "25 Tage",
+                    "Switzerland": "20 Tage"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה ימי חופשה בתשלום זכאים עובדים להם על פי חוק?",
+                "answers": {
+                    "Israel": "12 יום"
+                }
+            },
+            "Hindi": {
+                "translated_question": "श्रमिकों को कानूनी तौर पर कितने सवेतन अवकाश का अधिकार है?",
+                "answers": {
+                    "India": "12"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa banyak hari libur berbayar yang berhak diterima pekerja secara hukum?",
+                "answers": {
+                    "Indonesia": "12 hari",
+                    "Malaysia": "11 hari"
+                }
+            },
+            "Italian": {
+                "translated_question": "A quanti giorni di ferie retribuite hanno legalmente diritto i lavoratori?",
+                "answers": {
+                    "Italy": "20 giorni lavorativi"
+                }
+            },
+            "Japanese": {
+                "translated_question": "労働者は法的に何日の有給休暇を取得する権利がありますか?",
+                "answers": {
+                    "Japan": "20日間"
+                }
+            },
+            "Korean": {
+                "translated_question": "근로자가 법적으로 받을 수 있는 유급 휴가일은 몇 일입니까?",
+                "answers": {
+                    "South Korea": "15~25일",
+                    "North Korea": "14일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quantos dias de férias remuneradas os trabalhadores têm direito por lei?",
+                "answers": {
+                    "Portugal": "22 dias por ano",
+                    "Brazil": "30 dias por ano"
+                }
+            },
+            "Chinese": {
+                "translated_question": "工人依法享有多少天带薪休假？",
+                "answers": {
+                    "China\n(Chinese)": "5至15天",
+                    "Singapore\n(Chinese)": "7至14天"
+                }
+            }
+        }
+    },
+    "For how many years is education compulsory?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "For how many years is education compulsory?",
+                "answers": {
+                    "USA": "10-12 years",
+                    "UK": "13 years",
+                    "Canada": "10 years",
+                    "Australia": "10 years",
+                    "South Africa": "9 years",
+                    "Ireland": "10 years",
+                    "New Zealand": "10 years"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Durante cuántos años es obligatoria la educación?",
+                "answers": {
+                    "Mexico": "15 años",
+                    "USA": "10-12 años",
+                    "Colombia": "10 años",
+                    "Spain": "10 años",
+                    "Argentina": "14 años",
+                    "Peru": "14 años",
+                    "Venezuela": "10 años",
+                    "Chile": "12 años",
+                    "Guatemala": "11 años",
+                    "Ecuador": "10 años",
+                    "Bolivia": "14 años",
+                    "Cuba": "9 años",
+                    "the Dominican Republic": "8 años",
+                    "Honduras": "9 años",
+                    "Paraguay": "9 años",
+                    "Nicaragua": "6 años",
+                    "El Salvador": "9 años",
+                    "Costa Rica": "11 años",
+                    "Panama": "11 años",
+                    "Uruguay": "14 años"
+                }
+            },
+            "French": {
+                "translated_question": "Pendant combien d'années l'éducation est-elle obligatoire ?",
+                "answers": {
+                    "France": "13",
+                    "Congo (DR)": "6",
+                    "Canada": "10",
+                    "Haiti": "9",
+                    "Belgium": "12",
+                    "Switzerland": "11",
+                    "Mali": "9"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele Jahre lang besteht Schulpflicht?",
+                "answers": {
+                    "Germany": "10 Jahre",
+                    "Austria": "9 Jahre",
+                    "Switzerland": "11 Jahre"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה שנים נמשך חינוך החובה?",
+                "answers": {
+                    "Israel": "15"
+                }
+            },
+            "Hindi": {
+                "translated_question": "कितने वर्षों तक शिक्षा अनिवार्य है?",
+                "answers": {
+                    "India": "8"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa lama pendidikan wajib?",
+                "answers": {
+                    "Indonesia": "9 tahun",
+                    "Malaysia": "6 tahun"
+                }
+            },
+            "Italian": {
+                "translated_question": "Per quanti anni l'istruzione è obbligatoria?",
+                "answers": {
+                    "Italy": "10 anni"
+                }
+            },
+            "Japanese": {
+                "translated_question": "義務教育は何年間ですか？",
+                "answers": {
+                    "Japan": "９年間"
+                }
+            },
+            "Korean": {
+                "translated_question": "의무교육은 몇 년 동안 실시되나요?",
+                "answers": {
+                    "South Korea": "9년",
+                    "North Korea": "12년"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Por quantos anos a educação é obrigatória?",
+                "answers": {
+                    "Portugal": "12 anos",
+                    "Brazil": "13 anos"
+                }
+            },
+            "Chinese": {
+                "translated_question": "义务教育是多少年？",
+                "answers": {
+                    "China\n(Chinese)": "九年",
+                    "Singapore\n(Chinese)": "十年"
+                }
+            }
+        }
+    },
+    "When was the constitution signed?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "When was the constitution signed?",
+                "answers": {
+                    "USA": "September 17, 1787",
+                    "UK": "N/A",
+                    "Canada": "April 17, 1982",
+                    "Australia": "July 9, 1900",
+                    "South Africa": "December 10, 1996",
+                    "Ireland": "December 29, 1937",
+                    "New Zealand": "24 May 1854"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuando se firmó la constitución?",
+                "answers": {
+                    "Mexico": "5 de febrero de 1917",
+                    "USA": "17 de septiembre de 1787",
+                    "Colombia": "4 de julio de 1991",
+                    "Spain": "27 de diciembre de 1978",
+                    "Argentina": "1 de mayo de 1853",
+                    "Peru": "29 de diciembre de 1993",
+                    "Venezuela": "21 de diciembre de 1811",
+                    "Chile": "8 de agosto, 1980",
+                    "Guatemala": "31 de mayo, 1985",
+                    "Ecuador": "11 de septiembre, 1830",
+                    "Bolivia": "6 de noviembre, 1826",
+                    "Cuba": "21 de febrero, 1901",
+                    "the Dominican Republic": "6 de noviembre, 1844",
+                    "Honduras": "20 de enero de 1982",
+                    "Paraguay": "20 de junio de 1992",
+                    "Nicaragua": "9 de enero de 1987",
+                    "El Salvador": "15 de diciembre de 1983",
+                    "Costa Rica": "7 de noviembre de 1949",
+                    "Panama": "1 de marzo de 1904",
+                    "Uruguay": "18 de julio de 1830"
+                }
+            },
+            "French": {
+                "translated_question": "Quand la constitution a-t-elle été signée ?",
+                "answers": {
+                    "France": "4 octobre 1958",
+                    "Congo (DR)": "18 février 2006",
+                    "Canada": "N/A",
+                    "Haiti": "29 mars 1987",
+                    "Belgium": "7 février 1831",
+                    "Switzerland": "12 septembre 1848",
+                    "Mali": "25 février 1992"
+                }
+            },
+            "German": {
+                "translated_question": "Wann wurde die Verfassung unterzeichnet?",
+                "answers": {
+                    "Germany": "23. Mai 1949",
+                    "Austria": "1. October 1920",
+                    "Switzerland": "12. September 1848"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מתי נחתמה החוקה?",
+                "answers": {
+                    "Israel": "N/A"
+                }
+            },
+            "Hindi": {
+                "translated_question": "संविधान पर हस्ताक्षर कब किये गये?",
+                "answers": {
+                    "India": "24 जनवरी, 1950"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Kapan konstitusi ditandatangani?",
+                "answers": {
+                    "Indonesia": "18 agustus 1945",
+                    "Malaysia": "Ogos 31, 1957"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quando è stata firmata la Costituzione?",
+                "answers": {
+                    "Italy": "27 dicembre 1947"
+                }
+            },
+            "Japanese": {
+                "translated_question": "憲法はいつ署名されましたか？",
+                "answers": {
+                    "Japan": "昭和２１年（１９４６年）１１月３日"
+                }
+            },
+            "Korean": {
+                "translated_question": "헌법은 언제 서명되었나요?",
+                "answers": {
+                    "South Korea": "1948년 7월 17일",
+                    "North Korea": "1948년 9월 8일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quando foi assinada a constituição?",
+                "answers": {
+                    "Portugal": "2 de abril de 1976",
+                    "Brazil": "5 de outubro de 1988 "
+                }
+            },
+            "Chinese": {
+                "translated_question": "宪法何时签署？",
+                "answers": {
+                    "China\n(Chinese)": "1954年9月20日",
+                    "Singapore\n(Chinese)": "1965年12月22日"
+                }
+            }
+        }
+    },
+    "When does the fiscal year start?": {
+        "category": "Holiday and Calendar",
+        "languages": {
+            "English": {
+                "translated_question": "When does the fiscal year start?",
+                "answers": {
+                    "USA": "October 1",
+                    "UK": "April 6",
+                    "Canada": "April 1",
+                    "Australia": "July 1",
+                    "South Africa": "March 1",
+                    "Ireland": "January 1",
+                    "New Zealand": "April 1"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuando comienza el año fiscal?",
+                "answers": {
+                    "Mexico": "1 de enero",
+                    "USA": "1 de octubre",
+                    "Colombia": "1 de enero",
+                    "Spain": "1 de enero",
+                    "Argentina": "1 de enero",
+                    "Peru": "1 de enero",
+                    "Venezuela": "1 de enero",
+                    "Chile": "1 de enero",
+                    "Guatemala": "1 de enero",
+                    "Ecuador": "1 de enero",
+                    "Bolivia": "1 de enero",
+                    "Cuba": "1 de enero",
+                    "the Dominican Republic": "1 de enero",
+                    "Honduras": "1 de enero",
+                    "Paraguay": "1 de enero",
+                    "Nicaragua": "1 de enero",
+                    "El Salvador": "1 de enero",
+                    "Costa Rica": "1 de octubre",
+                    "Panama": "1 de enero",
+                    "Uruguay": "1 de enero"
+                }
+            },
+            "French": {
+                "translated_question": "Quand commence l'exercice fiscal ?",
+                "answers": {
+                    "France": "1er janvier",
+                    "Congo (DR)": "1er janvier",
+                    "Canada": "1er avril",
+                    "Haiti": "1er octobre",
+                    "Belgium": "1er janvier",
+                    "Switzerland": "1er janvier",
+                    "Mali": "1er janvier"
+                }
+            },
+            "German": {
+                "translated_question": "Wann beginnt das Geschäftsjahr?",
+                "answers": {
+                    "Germany": "1. Januar",
+                    "Austria": "1. Januar",
+                    "Switzerland": "1. Januar"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מתי מתחילה שנת הכספים?",
+                "answers": {
+                    "Israel": "ה-1 בינואר"
+                }
+            },
+            "Hindi": {
+                "translated_question": "वित्तीय वर्ष कब शुरू होता है?",
+                "answers": {
+                    "India": "1 अप्रैल"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Kapan tahun fiskal dimulai?",
+                "answers": {
+                    "Indonesia": "1 januari",
+                    "Malaysia": "januari 1"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quando inizia l'anno fiscale?",
+                "answers": {
+                    "Italy": "1° gennaio"
+                }
+            },
+            "Japanese": {
+                "translated_question": "会計年度はいつ始まりますか?",
+                "answers": {
+                    "Japan": "４月１日"
+                }
+            },
+            "Korean": {
+                "translated_question": "회계연도는 언제 시작되나요?",
+                "answers": {
+                    "South Korea": "1월 1일",
+                    "North Korea": "1월 1일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quando começa o ano fiscal?",
+                "answers": {
+                    "Portugal": "1 de janeiro",
+                    "Brazil": "1 de janeiro"
+                }
+            },
+            "Chinese": {
+                "translated_question": "什么时候开始财政年度？",
+                "answers": {
+                    "China\n(Chinese)": "1月1日",
+                    "Singapore\n(Chinese)": "4月1日"
+                }
+            }
+        }
+    },
+    "what is the shortest national highway?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "what is the shortest national highway?",
+                "answers": {
+                    "USA": "I-878",
+                    "UK": "A8(M)",
+                    "Canada": "British Columbia Highway 41",
+                    "Australia": "Chandler Highway",
+                    "South Africa": "N5",
+                    "Ireland": "N52",
+                    "New Zealand": "State Highway 78"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es la carretera nacional más corta?",
+                "answers": {
+                    "Mexico": "Carretera Federal 103",
+                    "USA": "I-878",
+                    "Colombia": "Ruta Nacional 48",
+                    "Spain": "GA-1.1 con una longitud de 130 m",
+                    "Argentina": "Ruta Nacional A023 con una longitud de 1.4 km",
+                    "Peru": "Ruta Nacional PE-1N G con una longitud de 1.5 km",
+                    "Venezuela": "Troncal 4",
+                    "Chile": "Ruta 178",
+                    "Guatemala": "CA-10",
+                    "Ecuador": "E283",
+                    "Bolivia": "Ruta 18",
+                    "Cuba": "Autopista de la Isla de la Juventud",
+                    "the Dominican Republic": "RD-2",
+                    "Honduras": "San Pedro Sula - El Progreso: 30 km",
+                    "Paraguay": "Route PY19: 202 km",
+                    "Nicaragua": "NIC-1: 238.47 km",
+                    "El Salvador": "RN-21, also known as Bulevar Monseñor Romero - 9.95 km",
+                    "Costa Rica": "National Route 153:  1.670 km",
+                    "Panama": "La Chorrera - Balboa/Panama City: 25 km",
+                    "Uruguay": "Ruta 71: 2.8 km"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la route nationale la plus courte ?",
+                "answers": {
+                    "France": "Nationale 10",
+                    "Congo (DR)": "Route Nationale 20 (RN20)",
+                    "Canada": "N/A",
+                    "Haiti": " Route Nationale 8 (RN8)",
+                    "Belgium": "N23",
+                    "Switzerland": "A3",
+                    "Mali": "N/A"
+                }
+            },
+            "German": {
+                "translated_question": "Was ist die kürzeste Nationalstraße?",
+                "answers": {
+                    "Germany": "A831",
+                    "Austria": "Bundesstrasse",
+                    "Switzerland": "A3W"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהו הכביש הלאומי הקצר ביותר?",
+                "answers": {
+                    "Israel": "כביש 46"
+                }
+            },
+            "Hindi": {
+                "translated_question": "सबसे छोटा राष्ट्रीय राजमार्ग कौन सा है?",
+                "answers": {
+                    "India": "NH 548"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "apa jalan raya nasional terpendek?",
+                "answers": {
+                    "Indonesia": "jalan diponegoro, tanjungpinang, kep. riau",
+                    "Malaysia": "Jalan Persekutuan 197"
+                }
+            },
+            "Italian": {
+                "translated_question": "qual è l'autostrada nazionale più corta?",
+                "answers": {
+                    "Italy": "A59, Tangenziale di Como"
+                }
+            },
+            "Japanese": {
+                "translated_question": "最短の国道は何ですか？",
+                "answers": {
+                    "Japan": "国道１７４号"
+                }
+            },
+            "Korean": {
+                "translated_question": "가장 짧은 국도는 무엇입니까?",
+                "answers": {
+                    "South Korea": "국도 제99호선입니다.",
+                    "North Korea": "N/A"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a rodovia nacional mais curta?",
+                "answers": {
+                    "Portugal": "EN 11",
+                    "Brazil": "BR-363"
+                }
+            },
+            "Chinese": {
+                "translated_question": "最短的国道是哪一条？",
+                "answers": {
+                    "China\n(Chinese)": "103国道",
+                    "Singapore\n(Chinese)": "武吉知马高速公路"
+                }
+            }
+        }
+    },
+    "when was the declaration of independence signed?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "when was the declaration of independence signed?",
+                "answers": {
+                    "USA": "August 2, 1776",
+                    "UK": "N/A",
+                    "Canada": "N/A",
+                    "Australia": "N/A",
+                    "South Africa": "N/A",
+                    "Ireland": "January 21, 1919",
+                    "New Zealand": "October 28, 1835"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuando se firmó la declaración de independencia?",
+                "answers": {
+                    "Mexico": "28 de septiembre de 1821",
+                    "USA": "2 de agosto de 1776",
+                    "Colombia": "20 de julio de 1810",
+                    "Spain": "N/A",
+                    "Argentina": "9 de julio de 1816",
+                    "Peru": "15 de julio de 1821",
+                    "Venezuela": "5 de julio de 1811",
+                    "Chile": "12 de febrero de 1818",
+                    "Guatemala": "15 de septiembre, 1821",
+                    "Ecuador": "10 de agosto, 1809",
+                    "Bolivia": "6 de agosto, 1825",
+                    "Cuba": "20 de mayo, 1902",
+                    "the Dominican Republic": "27 de febrero, 1844",
+                    "Honduras": "15 de septiembre de 1821",
+                    "Paraguay": "25 de noviembre de 1842",
+                    "Nicaragua": "15 de septiembre de 1821",
+                    "El Salvador": "15 de septiembre de 1821",
+                    "Costa Rica": "29 de octubre de 1821",
+                    "Panama": "28 de noviembre de 1821",
+                    "Uruguay": "25 de Agosto, 1825"
+                }
+            },
+            "French": {
+                "translated_question": "Quand la déclaration d'indépendance a-t-elle été signée ?",
+                "answers": {
+                    "France": "N/A",
+                    "Congo (DR)": "30 juin 1960",
+                    "Canada": "N/A",
+                    "Haiti": "1er janvier 1804",
+                    "Belgium": "4 octobre 1830",
+                    "Switzerland": "N/A",
+                    "Mali": "22 septembre 1960"
+                }
+            },
+            "German": {
+                "translated_question": "Wann wurde die Unabhängigkeitserklärung unterzeichnet?",
+                "answers": {
+                    "Germany": "N/A",
+                    "Austria": "27. April 1945",
+                    "Switzerland": "N/A"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מתי נחתמה הכרזת העצמאות?",
+                "answers": {
+                    "Israel": "14 במאי 1948, ה' באייר תש\"ח"
+                }
+            },
+            "Hindi": {
+                "translated_question": "स्वतंत्रता की घोषणा पर हस्ताक्षर कब किये गये थे?",
+                "answers": {
+                    "India": "26 जनवरी, 1930"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Kapan deklarasi kemerdekaan ditandatangani?",
+                "answers": {
+                    "Indonesia": "17 agustus 1945",
+                    "Malaysia": "Ogos 31, 1957"
+                }
+            },
+            "Italian": {
+                "translated_question": "quando è stata firmata la dichiarazione di indipendenza?",
+                "answers": {
+                    "Italy": "17 marzo 1861"
+                }
+            },
+            "Japanese": {
+                "translated_question": "独立宣言はいつ署名されましたか？",
+                "answers": {
+                    "Japan": "N/A"
+                }
+            },
+            "Korean": {
+                "translated_question": "독립선언서는 언제 서명되었나요?",
+                "answers": {
+                    "South Korea": "1919년 3월 1일",
+                    "North Korea": "1919년 3월 1일"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quando foi assinada a declaração de independência?",
+                "answers": {
+                    "Portugal": "23 de maio de 1179",
+                    "Brazil": "7 de setembro de 1822"
+                }
+            },
+            "Chinese": {
+                "translated_question": "独立宣言是什么时候签署的？",
+                "answers": {
+                    "China\n(Chinese)": "N/A",
+                    "Singapore\n(Chinese)": "1965年8月7号"
+                }
+            }
+        }
+    },
+    "How many terms can the prime minister serve?": {
+        "category": "State and Country",
+        "languages": {
+            "English": {
+                "translated_question": "How many terms can the prime minister serve?",
+                "answers": {
+                    "USA": "N/A",
+                    "UK": "no limit",
+                    "Canada": "No limit",
+                    "Australia": "No limit",
+                    "South Africa": "Two",
+                    "Ireland": "No limit",
+                    "New Zealand": "No limit"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuántos mandatos puede cumplir el primer ministro?",
+                "answers": {
+                    "Mexico": "N/A",
+                    "USA": "N/A",
+                    "Colombia": "N/A",
+                    "Spain": "No hay límite",
+                    "Argentina": "N/A",
+                    "Peru": "N/A",
+                    "Venezuela": "N/A",
+                    "Chile": "N/A",
+                    "Guatemala": "N/A",
+                    "Ecuador": "N/A",
+                    "Bolivia": "N/A",
+                    "Cuba": "N/A",
+                    "the Dominican Republic": "N/A",
+                    "Honduras": "N/A",
+                    "Paraguay": "N/A",
+                    "Nicaragua": "N/A",
+                    "El Salvador": "N/A",
+                    "Costa Rica": "N/A",
+                    "Panama": "N/A",
+                    "Uruguay": "N/A"
+                }
+            },
+            "French": {
+                "translated_question": "Combien de mandats peut effectuer le Premier ministre ?",
+                "answers": {
+                    "France": "Pas de limite",
+                    "Congo (DR)": "Pas de limite",
+                    "Canada": "Pas de limite",
+                    "Haiti": "Pas de limite",
+                    "Belgium": "Pas de limite",
+                    "Switzerland": "N/A",
+                    "Mali": "Pas de limite"
+                }
+            },
+            "German": {
+                "translated_question": "Wie viele Amtszeiten kann der Premierminister absolvieren?",
+                "answers": {
+                    "Germany": "keine Grenze",
+                    "Austria": "keine Grenze",
+                    "Switzerland": "N/A"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "כמה קדנציות יכול ראש הממשלה לכהן?",
+                "answers": {
+                    "Israel": "אין הגבלה"
+                }
+            },
+            "Hindi": {
+                "translated_question": "प्रधानमंत्री कितने कार्यकाल तक पद पर रह सकता है?",
+                "answers": {
+                    "India": "कोई काल-सीमा निर्धारित नहीं की गई "
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Berapa kali masa jabatan perdana menteri dapat dijabat?",
+                "answers": {
+                    "Indonesia": "N/A",
+                    "Malaysia": "2 penggal"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quanti mandati può ricoprire il primo ministro?",
+                "answers": {
+                    "Italy": "senza limiti"
+                }
+            },
+            "Japanese": {
+                "translated_question": "首相は何期務めることができるか？",
+                "answers": {
+                    "Japan": "制限はない"
+                }
+            },
+            "Korean": {
+                "translated_question": "총리는 몇 번의 임기를 맡을 수 있나요?",
+                "answers": {
+                    "South Korea": "N/A",
+                    "North Korea": "N/A"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Por quantos mandatos o primeiro-ministro pode cumprir?",
+                "answers": {
+                    "Portugal": "Não há limite",
+                    "Brazil": "N/A"
+                }
+            },
+            "Chinese": {
+                "translated_question": "首相可以连任几届？",
+                "answers": {
+                    "China\n(Chinese)": "两届",
+                    "Singapore\n(Chinese)": "无限制"
+                }
+            }
+        }
+    },
+    "Can you speak a vernacular dialect at school?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "Can you speak a vernacular dialect at school?",
+                "answers": {
+                    "USA": "Yes",
+                    "UK": "Yes",
+                    "Canada": "Yes",
+                    "Australia": "Yes",
+                    "South Africa": "Yes",
+                    "Ireland": "No",
+                    "New Zealand": "N/A"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Puedes hablar un dialecto vernáculo en la escuela?",
+                "answers": {
+                    "Mexico": "Sí",
+                    "USA": "Sí",
+                    "Colombia": "Sí",
+                    "Spain": "Sí",
+                    "Argentina": "Sí",
+                    "Peru": "Sí",
+                    "Venezuela": "Sí",
+                    "Chile": "Sí",
+                    "Guatemala": "Sí",
+                    "Ecuador": "Sí",
+                    "Bolivia": "Sí",
+                    "Cuba": "Sí",
+                    "the Dominican Republic": "Sí",
+                    "Honduras": "Sí",
+                    "Paraguay": "Sí",
+                    "Nicaragua": "Sí",
+                    "El Salvador": "Sí",
+                    "Costa Rica": "Sí",
+                    "Panama": "Sí",
+                    "Uruguay": "Sí"
+                }
+            },
+            "French": {
+                "translated_question": "Parles-tu un dialecte local à l'école ?",
+                "answers": {
+                    "France": "Oui",
+                    "Congo (DR)": "Oui",
+                    "Canada": "Oui",
+                    "Haiti": "Oui",
+                    "Belgium": "Oui",
+                    "Switzerland": "Oui",
+                    "Mali": "Oui"
+                }
+            },
+            "German": {
+                "translated_question": "Kannst du in der Schule einen lokalen Dialekt sprechen?",
+                "answers": {
+                    "Germany": "Ja",
+                    "Austria": "Ja",
+                    "Switzerland": "Ja"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "האם מותר לדבר בסלנג בבית הספר?",
+                "answers": {
+                    "Israel": "כן"
+                }
+            },
+            "Hindi": {
+                "translated_question": "क्या आप स्कूल में स्थानीय बोली बोल सकते हैं?",
+                "answers": {
+                    "India": "हाँ"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Bisakah Anda berbicara dengan dialek bahasa daerah di sekolah?",
+                "answers": {
+                    "Indonesia": "diperbolehkan secara terbatas",
+                    "Malaysia": "tidak"
+                }
+            },
+            "Italian": {
+                "translated_question": "Sai parlare un dialetto vernacolare a scuola?",
+                "answers": {
+                    "Italy": "no"
+                }
+            },
+            "Japanese": {
+                "translated_question": "学校で方言を話せますか？",
+                "answers": {
+                    "Japan": "はい"
+                }
+            },
+            "Korean": {
+                "translated_question": "학교에서 방언을 말할 수 있나요?",
+                "answers": {
+                    "South Korea": "네",
+                    "North Korea": "아니요"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Você consegue falar um dialeto vernáculo na escola?",
+                "answers": {
+                    "Portugal": "Não",
+                    "Brazil": "Sim"
+                }
+            },
+            "Chinese": {
+                "translated_question": "你在学校能说方言吗？",
+                "answers": {
+                    "China\n(Chinese)": "根据不同的学校规定不同，学校提倡用普通话交流。",
+                    "Singapore\n(Chinese)": "根据不同的学校规定不同，学校提倡用英语或官方规定的母语交流。"
+                }
+            }
+        }
+    },
+    "When do middle schoolers go back to school?": {
+        "category": "Holiday and Calendar",
+        "languages": {
+            "English": {
+                "translated_question": "When do middle schoolers go back to school?",
+                "answers": {
+                    "USA": "Mid-August or early September",
+                    "UK": "early september",
+                    "Canada": "Late August or early September",
+                    "Australia": "Late July",
+                    "South Africa": "Late July",
+                    "Ireland": "in the week that September 1st falls, or occasionally the week before",
+                    "New Zealand": "End of January or beginning of February"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuándo vuelven a la escuela los estudiantes de secundaria?",
+                "answers": {
+                    "Mexico": "Inicios de septiembre",
+                    "USA": "Entre finales de agosto y principios de septiembre",
+                    "Colombia": "Para Calendario A entre finales de enero y principios de febrero. Para Calendario B en agosto",
+                    "Spain": "Inicios de septiembre",
+                    "Argentina": "Entre finales de febrero y principios de marzo",
+                    "Peru": "Inicios de marzo",
+                    "Venezuela": "15 de septiembre",
+                    "Chile": "21 de julio",
+                    "Guatemala": "5 de julio",
+                    "Ecuador": "26 de agosto",
+                    "Bolivia": "15 de julio",
+                    "Cuba": "2 de septiembre",
+                    "the Dominican Republic": "26 de agosto",
+                    "Honduras": "Febrero",
+                    "Paraguay": "Febrero",
+                    "Nicaragua": "Enero",
+                    "El Salvador": "enero o febrero",
+                    "Costa Rica": "Febrero",
+                    "Panama": "Marzo",
+                    "Uruguay": "Marzo"
+                }
+            },
+            "French": {
+                "translated_question": "Quand les élèves du collège retournent-ils à l'école ?",
+                "answers": {
+                    "France": "Début septembre",
+                    "Congo (DR)": "Début septembre",
+                    "Canada": "Début septembre",
+                    "Haiti": "Début octobre",
+                    "Belgium": "Début septembre",
+                    "Switzerland": "mi-août",
+                    "Mali": "Début octobre"
+                }
+            },
+            "German": {
+                "translated_question": "Wann beginnt für die Schüler der Mittelstufe wieder die Schule?",
+                "answers": {
+                    "Germany": "Ende August bis Anfang September",
+                    "Austria": "Anfang September",
+                    "Switzerland": "Ende August bis Anfang September"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מתי תלמידי חטיבת ביניים חוזרים לבית הספר?",
+                "answers": {
+                    "Israel": "ב-1 לספטמבר"
+                }
+            },
+            "Hindi": {
+                "translated_question": "मिडिल स्कूल के बच्चे कब स्कूल वापस जाएंगे?",
+                "answers": {
+                    "India": "16 जून"
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Kapan siswa sekolah menengah pertama kembali ke sekolah?",
+                "answers": {
+                    "Indonesia": "pertengahan Juli",
+                    "Malaysia": "januari 2"
+                }
+            },
+            "Italian": {
+                "translated_question": "Quando tornano a scuola gli studenti delle scuole medie?",
+                "answers": {
+                    "Italy": "inizio o metà settembre"
+                }
+            },
+            "Japanese": {
+                "translated_question": "中学生はいつ学校に戻るのでしょうか？",
+                "answers": {
+                    "Japan": "４月初旬"
+                }
+            },
+            "Korean": {
+                "translated_question": "중학생들은 언제 학교에 복귀하나요?",
+                "answers": {
+                    "South Korea": "3월 초",
+                    "North Korea": "3월 초"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Quando os alunos do ensino fundamental voltam às aulas?",
+                "answers": {
+                    "Portugal": "Entre 12 e 16 de setembro",
+                    "Brazil": "Entre 3 e 10 de fevereiro"
+                }
+            },
+            "Chinese": {
+                "translated_question": "中学生什么时候返校？",
+                "answers": {
+                    "China\n(Chinese)": "9月1日",
+                    "Singapore\n(Chinese)": "1月2日"
+                }
+            }
+        }
+    },
+    "What is the most common greeting used over the phone?": {
+        "category": "Language",
+        "languages": {
+            "English": {
+                "translated_question": "What is the most common greeting used over the phone?",
+                "answers": {
+                    "USA": "Hello",
+                    "UK": "Hello",
+                    "Canada": "Hello",
+                    "Australia": "Hello",
+                    "South Africa": "Howzit",
+                    "Ireland": "Hello",
+                    "New Zealand": "Kia ora"
+                }
+            },
+            "Spanish": {
+                "translated_question": "¿Cuál es el saludo más común utilizado por teléfono?",
+                "answers": {
+                    "Mexico": "¿Bueno?",
+                    "USA": "¿Hola?",
+                    "Colombia": "¿Aló?",
+                    "Spain": "¿Diga?",
+                    "Argentina": "¿Hola?",
+                    "Peru": "¿Aló?",
+                    "Venezuela": "¿Aló?",
+                    "Chile": "¿Aló?",
+                    "Guatemala": "¿Bueno?",
+                    "Ecuador": "¿Aló?",
+                    "Bolivia": "¿Aló?",
+                    "Cuba": "Oigo",
+                    "the Dominican Republic": "Dígame",
+                    "Honduras": "¿Aló?",
+                    "Paraguay": "¿Aló?",
+                    "Nicaragua": "¿Aló?",
+                    "El Salvador": "¿Aló?",
+                    "Costa Rica": "¿Aló?",
+                    "Panama": "¿Aló?",
+                    "Uruguay": "¿Aló?"
+                }
+            },
+            "French": {
+                "translated_question": "Quelle est la formule de salutation la plus courante au téléphone ?",
+                "answers": {
+                    "France": "Allô",
+                    "Congo (DR)": "Allô",
+                    "Canada": "Allô ou Bonjour",
+                    "Haiti": "Allô",
+                    "Belgium": "Allô ou Bonjour ou Hallo",
+                    "Switzerland": "Allô ou Bonjour ou Grüezi ",
+                    "Mali": "Allô"
+                }
+            },
+            "German": {
+                "translated_question": "Welche Begrüßung wird am häufigsten am Telefon verwendet?",
+                "answers": {
+                    "Germany": "Hallo",
+                    "Austria": "Gruss Gott",
+                    "Switzerland": "Gruezi"
+                }
+            },
+            "Hebrew": {
+                "translated_question": "מהי הברכה הנפוצה ביותר בטלפון?",
+                "answers": {
+                    "Israel": "הלו"
+                }
+            },
+            "Hindi": {
+                "translated_question": "फ़ोन पर सबसे अधिक इस्तेमाल किया जाने वाला अभिवादन क्या है?",
+                "answers": {
+                    "India": "\"नमस्ते\" या \"हैलो\""
+                }
+            },
+            "Indonesian": {
+                "translated_question": "Apa salam yang paling umum digunakan melalui telepon?",
+                "answers": {
+                    "Indonesia": "halo",
+                    "Malaysia": "hello, assalamualaikum"
+                }
+            },
+            "Italian": {
+                "translated_question": "Qual è il saluto più comune utilizzato al telefono?",
+                "answers": {
+                    "Italy": "Pronto"
+                }
+            },
+            "Japanese": {
+                "translated_question": "電話で最もよく使われる挨拶は何ですか?",
+                "answers": {
+                    "Japan": "もしもし"
+                }
+            },
+            "Korean": {
+                "translated_question": "전화에서 가장 흔히 쓰이는 인사말은 무엇인가요?",
+                "answers": {
+                    "South Korea": "여보세요",
+                    "North Korea": "여보세요"
+                }
+            },
+            "Portuguese": {
+                "translated_question": "Qual é a saudação mais comum usada ao telefone?",
+                "answers": {
+                    "Portugal": "Alô",
+                    "Brazil": "Alô"
+                }
+            },
+            "Chinese": {
+                "translated_question": "电话中最常见的问候语是什么？",
+                "answers": {
+                    "China\n(Chinese)": "喂，你好",
+                    "Singapore\n(Chinese)": "喂，你好"
+                }
+            }
+        }
+    }
+}
