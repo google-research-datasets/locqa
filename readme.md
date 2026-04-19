@@ -1,6 +1,6 @@
 # LocQA: Localized Question Answering Benchmark
 
-This repository contains the dataset for the paper: **Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs** (ACL 2026).
+This repository contains the dataset for the paper **Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs** (ACL 2026).
 
 **LocQA** is a diagnostic benchmark designed to probe the implicit priors of multilingual Large Language Models (LLMs). It evaluates how models resolve ambiguity in *locale-ambiguous* questions: queries where the factual answer depends entirely on the geographic location of the speaker (e.g., "What is the legal drinking age?" or "When does the fiscal year start?").
 
